@@ -14,6 +14,6 @@ Welcome to Middle Temple Library’s exhibition, History of the Library.
 <strong>Origines juridiciales</strong> is rich with information about the history of English law, lawyers and legal institutions including the Inns of Court, amongst the many other subjects listed in the title, including perhaps the first published rules on English judges’ dress. Dugdale was an antiquary and a herald who visited cathedrals and major churches in London, the midlands, and the north, recording monuments, inscriptions and coats of arms. All editions of this work are filled with engravings and illustrations. He also reprints here (bottom left of page 197) the first mention of the Inn’s library from an anonymous account recorded in a Tudor manuscript (Cotton MS. Vit. C. IX. 35.). This volume was previously owned by Sir James Burrow, a law reporter and Master of the Crown Office.
 
 <param ve-image 
-       label="Plea Roll. 1272-1307 © Crown copyright images reproduced by permission of The National Archives, London, England"
+       label="Detail from Origines Juridiciales"
        url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388">
 
