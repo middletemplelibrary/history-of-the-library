@@ -17,3 +17,21 @@ Welcome to Middle Temple Library’s exhibition, History of the Library.
        label="Detail from Origines Juridiciales"
        url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388">
 
+## Refounding of the Library
+
+## The Will of Robert Ashley, 1641
+<br /><br />
+The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
+<br /><br />
+In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
+
+
+<param ve-image 
+       label="Detail from Origines Juridiciales"
+       url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388">
+
+
+
+![will](https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d)
+
+
