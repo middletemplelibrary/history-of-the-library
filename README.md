@@ -28,7 +28,7 @@ In his will, Ashley specifies that the collection should be used by any student 
 
 <param ve-image 
        label="Detail from Origines Juridiciales"
-       url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388">
+       url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
 
 
