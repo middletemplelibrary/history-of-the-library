@@ -4,11 +4,15 @@
        banner="https://github.com/user-attachments/assets/adb31d15-b9e1-473f-91a0-edfd1eb43ad8"
        layout="vertical">
 
-![banner](https://github.com/user-attachments/assets/adb31d15-b9e1-473f-91a0-edfd1eb43ad8)
-
        
 ## 
 Welcome to Middle Temple Library’s exhibition, History of the Library.
+
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
+## 
+Intro
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
