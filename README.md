@@ -32,6 +32,3 @@ In his will, Ashley specifies that the collection should be used by any student 
 
 
 
-![will](https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d)
-
-
