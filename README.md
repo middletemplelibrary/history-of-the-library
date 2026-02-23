@@ -34,10 +34,15 @@ The Library was officially re-founded by Robert Ashley (1565-1641) when he beque
 <br /><br />
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 
-
 <param ve-image 
        label="Robert Ashley's Will"
        url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
+##
 
+<strong><em>Angliæ notitia: or the present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679.</em></strong>
+<br /><br />
+An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, L'Estat Nouveau de la France. 
+<br /><br />
+This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
 
