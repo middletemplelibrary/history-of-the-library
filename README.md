@@ -1,8 +1,12 @@
 <param ve-config 
        title="History of the Library"
        author="Middle Temple Library"
-       banner="https://github.com/user-attachments/assets/9790b0f0-5b88-4257-ab74-0a1fb099e131"
+       banner="https://github.com/user-attachments/assets/adb31d15-b9e1-473f-91a0-edfd1eb43ad8"
        layout="vertical">
+
+![banner](https://github.com/user-attachments/assets/adb31d15-b9e1-473f-91a0-edfd1eb43ad8)
+
+       
 ## 
 Welcome to Middle Temple Library’s exhibition, History of the Library.
 
