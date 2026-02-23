@@ -46,3 +46,9 @@ An important historical document, Angliæ notitia is Edward Chamberlayne’s bes
 <br /><br />
 This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
 
+
+
+
+![1693](https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb)
+
+
