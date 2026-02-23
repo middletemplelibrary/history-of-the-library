@@ -15,7 +15,7 @@ Welcome to Middle Temple Library’s exhibition, History of the Library.
 
 <param ve-image 
        label="Plea Roll. 1272-1307 © Crown copyright images reproduced by permission of The National Archives, London, England"
-       url="https://github.com/user-attachments/assets/b7d0e840-29b1-4c19-826c-82098cbac9d1)>
+       url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388">
 
 ![dugdale](https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388)
 
