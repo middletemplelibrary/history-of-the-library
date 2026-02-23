@@ -47,7 +47,7 @@ An important historical document, Angliæ notitia is Edward Chamberlayne’s bes
 This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
 
 <param ve-image 
-       label="Robert Ashley's Will"
+       label="Inscription in Angliæ Notitia"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
 
