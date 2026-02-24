@@ -127,8 +127,10 @@ The new building didn’t appease all the members, with some finding the buildin
 The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 
 <param ve-image 
-       label="The Old Middle Temple Library prior to the Second World War"
+       label="Estimate for Warming the Library A"
        url="https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13">
+
+
 
 ##
 
@@ -137,12 +139,6 @@ The Library sought to alleviate these discomforts over the years. We can see fro
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
 
 
-
-
-
-
-
-![heating 1860 2](https://github.com/user-attachments/assets/a49ed440-bad3-4699-8699-7bc357a3af28)
 
 
 
