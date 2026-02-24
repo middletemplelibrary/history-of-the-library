@@ -90,8 +90,10 @@ In 1857, it was finally decided that a new building was required to encompass al
 <br /><br />
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
+## The Gothic Library
+
 <param ve-image 
-       label="New Parliament Chamber Library Plan B"
+       label="The New Middle Temple Library"
        url="https://github.com/user-attachments/assets/fbb3b02b-8b1c-444d-af16-ca53ed203c97">
 
 
