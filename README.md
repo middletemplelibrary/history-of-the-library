@@ -213,13 +213,30 @@ One such acquisition is The new natura brevium of the most reverend judge, Mr. A
 This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other       miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
 
 <param ve-image 
-       label="Stoke Newington Public Library"
+       label="Stoke Newington Public Library Sage donation"
        url="https://github.com/user-attachments/assets/58a9b689-723d-49b3-8c2a-61c3eac142d6">
 
+<param ve-image 
+       label="1718 Middle Temple Masters of the Bench"
+       url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
+
+##
+
+<strong>Magick & astrology vindicated from those false aspersions and calumnies, which the ignorance of some hath cast upon them. In which is contained true definitions of the said arts, and the justification of their practise, proved by the authority of Scripture, and the experience of ancient and modern authors. With observations from several remarkable conjunctions and apparitions: as those three suns that appeared before the Kings death, &c. Impartially communicated for the publique good. / By Hardick Warren, a well-wisher to the most secret occult arts and learning. Oxford : Clarendon press, 1761.</strong>
+<br /><br />
+Originally printed in 1651, this is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it       compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. Similar to Ashley, Petyt left his collection to Inner Temple with £150 for buying a place to preserve it, which resulted in the Library being enlarged to accommodate the bequest.
+
+##
+
+<strong>Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 & Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
+<br /><br />
+The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the left.
+ <br /><br />
+It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue (displayed below). It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
 
 
-![publick offices](https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9)
+
 
 
 
