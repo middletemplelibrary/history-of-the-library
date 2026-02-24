@@ -132,6 +132,8 @@ The Library sought to alleviate these discomforts over the years. We can see fro
 
 
 
+
+
 ##
 
 <strong>Heating the Library, 1928</strong>
