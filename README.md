@@ -156,6 +156,12 @@ In 1941 a bomb fell that caused the Library roof to cave in and rendered the bui
        label="Bomb damage to the old Library (looking north)"
        url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
 
+##
+
+<strong>Temporary Library</strong>
+<br /><br />
+Soon after the war, a temporary Library was built on the site where Nos. 2 and 3 Brick Court once stood (where the car park is situated today). It was opened 21st November 1946 by the Queen Mother and housed around 50,000 books.
+ 
 
 
 
