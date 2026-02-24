@@ -105,6 +105,7 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
 
 
 
+![old lib 6](https://github.com/user-attachments/assets/e15de693-d228-4bb6-83fe-cc9b60372306)
 
 
 
