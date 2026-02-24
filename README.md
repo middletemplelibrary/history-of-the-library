@@ -114,11 +114,13 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="1935, Snow on the steps of the old Library"
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
+<param ve-image 
+       label="The Old Middle Temple Library prior to the Second World War"
+       url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
 
 
 
 
-![old lib 7](https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1)
 
 
 
