@@ -130,6 +130,14 @@ The Library sought to alleviate these discomforts over the years. We can see fro
        label="The Old Middle Temple Library prior to the Second World War"
        url="https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13">
 
+##
+
+<strong>Heating the Library, 1928</strong>
+<br /><br />
+In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
+
+
+
 
 
 
