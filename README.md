@@ -142,6 +142,7 @@ In 1928, the Library decided to upgrade its heating. This quote sets out the cha
 
 
 
+![heating 1860 2](https://github.com/user-attachments/assets/a49ed440-bad3-4699-8699-7bc357a3af28)
 
 
 
