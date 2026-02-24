@@ -130,10 +130,9 @@ The Library sought to alleviate these discomforts over the years. We can see fro
        label="Estimate for Warming the Library A"
        url="https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13">
 
-
-
-
-![heating 1860 2](https://github.com/user-attachments/assets/7ce7893a-6855-4d73-ab10-f2327a629921)
+<param ve-image 
+       label="Estimate for Warming the Library A"
+       url="https://github.com/user-attachments/assets/7ce7893a-6855-4d73-ab10-f2327a629921">
 
 ##
 
