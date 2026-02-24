@@ -92,6 +92,12 @@ The final site was ultimately decided with the purchase of new land, known as Es
 
 ## The Gothic Library
 
+Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was opened on the 31st October 1861 by the Royal Bencher of the Inn, the Prince of Wales (later HRH Edward VI). It was 86 feet long, 42 feet in width and able to house up to 60,000 books; the Library was finally able to accommodate its growing collection. 
+<br /><br />
+The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
+<br /><br />
+Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the Library. Look closely at the photo showing the north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in est. 1565 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
+
 <param ve-image 
        label="The New Middle Temple Library"
        url="https://github.com/user-attachments/assets/fbb3b02b-8b1c-444d-af16-ca53ed203c97">
