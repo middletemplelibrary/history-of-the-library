@@ -257,6 +257,7 @@ Printed in 1734, this catalogue organises the titles into alphabetical order, re
 
 
 
+![1734cat](https://github.com/user-attachments/assets/fe431646-156a-4392-a57e-74efd6167129)
 
 
 
