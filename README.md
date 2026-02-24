@@ -180,16 +180,11 @@ With wartime damage to the previous building in recent memory, Edward Maufe desi
 <br /><br />
 The Ashley Library, some members may notice bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
 
+<param ve-image 
+       label="The Ashley Building"
+       url="https://github.com/user-attachments/assets/ece11542-4f82-48ea-b99d-ed804a2128cb">
 
 
-
-
-
-
-
-
-
-![ashley building](https://github.com/user-attachments/assets/ece11542-4f82-48ea-b99d-ed804a2128cb)
 
 
 
