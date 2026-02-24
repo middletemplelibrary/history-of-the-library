@@ -118,8 +118,13 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="The Old Middle Temple Library prior to the Second World War"
        url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
 
+##
 
-
+<strong>Heating the Library, 1860</strong>
+<br /><br />
+The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting.  
+<br /><br />
+The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 
 
 
