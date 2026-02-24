@@ -126,13 +126,15 @@ The new building didn’t appease all the members, with some finding the buildin
 <br /><br />
 The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 
+<param ve-image 
+       label="The Old Middle Temple Library prior to the Second World War"
+       url="https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13">
 
 
 
 
 
 
-![heating 1860](https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13)
 
 
 
