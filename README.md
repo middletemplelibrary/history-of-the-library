@@ -82,9 +82,18 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
        label="New Parliament Chamber Library Plan B"
        url="https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a">
 
+##
+
+<strong>1857 Library Committee minutes discussing plans for the new Library’s location, 14 April 1857</strong>
+<br /><br />
+In 1857, it was finally decided that a new building was required to encompass all the Library’s collections. A number of possible locations were deliberated. These Library Committee minutes show how unpopular the plan to build a new library on the fountain court site was. We can see that it provoked such a stir as to inspire a petition against it, signed by the Inn’s barrister members.
+<br /><br />
+The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
 
 
+
+![the new middle temple library](https://github.com/user-attachments/assets/fbb3b02b-8b1c-444d-af16-ca53ed203c97)
 
 
 
