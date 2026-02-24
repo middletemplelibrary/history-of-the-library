@@ -234,10 +234,12 @@ The first Library catalogue was produced by William Cox, executor of Ashley’s 
  <br /><br />
 It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue (displayed below). It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
+<param ve-image 
+       label="Liber Benefactorum Manuscript"
+       url="https://github.com/user-attachments/assets/f5013be8-e343-4611-9f15-fa3b42e2891a">
 
 
 
-![ms137a](https://github.com/user-attachments/assets/f5013be8-e343-4611-9f15-fa3b42e2891a)
 
 
 
