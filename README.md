@@ -57,5 +57,36 @@ In 1618 there were three comet sightings visible to the naked eye; for the first
 <br /><br />
 This item is part of Robert Ashley's bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
 
+## Early Days of the Library
+
+Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
+<br /><br />
+NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
+The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today! 
+
+
+
+##
+
+<strong>New Parliament Chamber Library<strong>
+<br /><br />
+By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in Inns of Court, 1800, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole<strong>”.
+<br /><br />
+In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
