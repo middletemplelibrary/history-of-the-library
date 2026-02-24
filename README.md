@@ -205,6 +205,7 @@ One such acquisition is The new natura brevium of the most reverend judge, Mr. A
 
 
 
+![natura brevium](https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2)
 
 
 
