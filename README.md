@@ -199,13 +199,15 @@ Spanning several centuries, the receipt books cover the expenditure of the Inn, 
 One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
 
 <param ve-image 
-       label="1694 receipt book"
+       label="1694 Receipt Book"
        url="https://github.com/user-attachments/assets/3ccfd20b-74f9-40de-b0c8-efb43c95fa00">
 
+<param ve-image 
+       label="The New Natura Brevium"
+       url="https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2">
 
 
 
-![natura brevium](https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2)
 
 
 
