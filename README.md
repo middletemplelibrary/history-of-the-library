@@ -74,9 +74,11 @@ By the early nineteenth century, No. 2 Garden Court had become old and dilapidat
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
 
+<param ve-image 
+       label="New Parliament Chamber Library Plan A"
+       url="https://github.com/user-attachments/assets/620c9e73-904d-4e7c-b46c-7cc682580d3b">
 
 
-![plan a](https://github.com/user-attachments/assets/620c9e73-904d-4e7c-b46c-7cc682580d3b)
 
 
 
