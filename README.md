@@ -237,6 +237,7 @@ It was started in 1700 and lists all major donations to the library covering 164
 
 
 
+![ms137a](https://github.com/user-attachments/assets/f5013be8-e343-4611-9f15-fa3b42e2891a)
 
 
 
