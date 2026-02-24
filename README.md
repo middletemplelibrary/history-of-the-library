@@ -131,7 +131,7 @@ The Library sought to alleviate these discomforts over the years. We can see fro
        url="https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13">
 
 <param ve-image 
-       label="Estimate for Warming the Library A"
+       label="Estimate for Warming the Library B"
        url="https://github.com/user-attachments/assets/7ce7893a-6855-4d73-ab10-f2327a629921">
 
 ##
@@ -139,6 +139,14 @@ The Library sought to alleviate these discomforts over the years. We can see fro
 <strong>Heating the Library, 1928</strong>
 <br /><br />
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
+
+##
+
+<strong>Wartime Library [photos]; letter to Miss Woodward of Pump Court</strong>
+<br /><br />
+The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. This letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
+<br /><br />
+In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
 
 
 
