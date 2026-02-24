@@ -81,6 +81,7 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
 
 
 
+![plan b](https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a)
 
 
 
