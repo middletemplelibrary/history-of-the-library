@@ -50,7 +50,12 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
        label="Inscription in Angliæ Notitia"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
-
+## Ashley's Bequest
+<strong>An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following. With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks.</strong> London :  Printed by Edward Griffin for Iohn Parker, 1618.
+<br /><br />
+In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope.  Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
+<br /><br />
+This item is part of Robert Ashley's bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
 
 
 
