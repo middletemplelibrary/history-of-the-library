@@ -212,9 +212,11 @@ One such acquisition is The new natura brevium of the most reverend judge, Mr. A
 <br /><br />
 This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other       miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
 
+<param ve-image 
+       label="Stoke Newington Public Library"
+       url="https://github.com/user-attachments/assets/58a9b689-723d-49b3-8c2a-61c3eac142d6">
 
 
-![public offices bookplate](https://github.com/user-attachments/assets/58a9b689-723d-49b3-8c2a-61c3eac142d6)
 
 
 
