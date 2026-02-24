@@ -161,7 +161,24 @@ In 1941 a bomb fell that caused the Library roof to cave in and rendered the bui
 <strong>Temporary Library</strong>
 <br /><br />
 Soon after the war, a temporary Library was built on the site where Nos. 2 and 3 Brick Court once stood (where the car park is situated today). It was opened 21st November 1946 by the Queen Mother and housed around 50,000 books.
- 
+
+##
+
+<strong>Possible Libraries</strong>
+<br /><br />
+Prior to the construction of the modern Library, there was the suggestion of a joint Library for the two Inns. However, both Inner and Middle decided against this and Edward Maufe was contracted to design a new Library for Middle Temple.
+ <br /><br />
+Originally, he designed a six-storey structure to be built on top of the site of the Gothic Library (which would be demolished), however it was agreed this would cost the Inn too much money. Maufe’s second design culminated in the Library you are standing in today. The temporary Library was demolished in 1958 to make way for the car park.
+
+##
+
+<strong>The Ashley Building Library</strong>
+<br /><br />
+The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
+ <br /><br />
+With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2017.
+<br /><br />
+The Ashley Library, some members may notice bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
 
 
 
@@ -171,6 +188,8 @@ Soon after the war, a temporary Library was built on the site where Nos. 2 and 3
 
 
 
+
+![ashley building](https://github.com/user-attachments/assets/ece11542-4f82-48ea-b99d-ed804a2128cb)
 
 
 
