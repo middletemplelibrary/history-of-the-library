@@ -248,7 +248,7 @@ It was started in 1700 and lists all major donations to the library covering 164
 
 ##
 
-<strong>Catalogus librorum bibliothecæ Honorabilis Societatis Medii Templi,  Londini. Ordine dictionarii dispositus, 1734</strong>
+<strong>Catalogus librorum bibliothecæ Honorabilis Societatis Medii Templi, Londini. Ordine dictionarii dispositus, 1734</strong>
 <br /><br />
 Printed in 1734, this catalogue organises the titles into alphabetical order, recording book size (e.g. folio, 8vo, 4to), printing location and date. It provides the locations, denoting the ‘seat and side’ and the shelf number, giving us an idea about how previous librarians classified and shelved the collection. On the pages displayed, we can see various annotations, like general updates and annotations that appear to be correcting printed inaccuracies. Books would’ve been added to the collection on a regular basis, before a new and updated  catalogue would’ve been printed.
 
@@ -256,15 +256,11 @@ Printed in 1734, this catalogue organises the titles into alphabetical order, re
        label="1734 Library catalogue"
        url="https://github.com/user-attachments/assets/fe431646-156a-4392-a57e-74efd6167129">
 
+##
 
-
-
-
-
-
-
-
-
+<strong>Catalogues</strong>
+<br /><br />
+This is an example of a catalogue record from the card catalogue that became the norm in the nineteenth century in libraries. You can find the card catalogue on the Gallery before you enter the Library and on the third floor, next to the US collection. Today, the Library uses an online public access catalogue (OPAC) to organise its collections. Scan the QR code to use the catalogue.
 
 
 
