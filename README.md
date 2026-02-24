@@ -79,7 +79,7 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
        url="https://github.com/user-attachments/assets/d76f1626-3f86-4d55-86cb-b42270bc0aaa">
 
 
-![plan a](https://github.com/user-attachments/assets/d76f1626-3f86-4d55-86cb-b42270bc0aaa)
+
 
 
 
