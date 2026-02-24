@@ -242,12 +242,14 @@ It was started in 1700 and lists all major donations to the library covering 164
        label="An early Library catalogue"
        url="https://github.com/user-attachments/assets/aa175053-6acd-45b2-900d-ba3dafef7cf7">
 
+<param ve-image 
+       label="Library donations 1826"
+       url="https://github.com/user-attachments/assets/23507615-acc0-40cc-a503-d4c8e7cd57b9">
 
 
 
 
 
-![ms137c](https://github.com/user-attachments/assets/23507615-acc0-40cc-a503-d4c8e7cd57b9)
 
 
 
