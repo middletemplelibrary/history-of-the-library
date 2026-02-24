@@ -132,6 +132,7 @@ The Library sought to alleviate these discomforts over the years. We can see fro
 
 
 
+![heating 1860](https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13)
 
 
 
