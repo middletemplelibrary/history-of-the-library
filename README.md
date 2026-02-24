@@ -35,7 +35,7 @@ The Library was officially re-founded by Robert Ashley (1565-1641) when he beque
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 
 <param ve-image 
-       label="Robert Ashley's Will"
+       label="Robert Ashley's will"
        url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
 ##
@@ -127,11 +127,11 @@ The new building didn’t appease all the members, with some finding the buildin
 The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 
 <param ve-image 
-       label="Estimate for Warming the Library A"
+       label="Estimate for warming the Library A"
        url="https://github.com/user-attachments/assets/3044b088-4373-47c3-ab81-dacba4248a13">
 
 <param ve-image 
-       label="Estimate for Warming the Library B"
+       label="Estimate for warming the Library B"
        url="https://github.com/user-attachments/assets/7ce7893a-6855-4d73-ab10-f2327a629921">
 
 ##
@@ -148,11 +148,12 @@ The Library suffered immense damage during the Second World War. The area was bo
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
 
+<param ve-image 
+       label="The clean-up operation in the old Library"
+       url="https://github.com/user-attachments/assets/7a3e5c2d-996c-41ec-8691-5864b77e1239">
 
 
 
-
-![old lib 1](https://github.com/user-attachments/assets/7a3e5c2d-996c-41ec-8691-5864b77e1239)
 
 
 
