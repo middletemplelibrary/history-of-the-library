@@ -68,7 +68,7 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 
 ##
 
-<strong>New Parliament Chamber Library<strong>
+New Parliament Chamber Library
 <br /><br />
 By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in Inns of Court, 1800, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a <strong>“miserable dirty hole”.<strong>
 <br /><br />
