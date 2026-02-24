@@ -246,6 +246,12 @@ It was started in 1700 and lists all major donations to the library covering 164
        label="Library donations 1826"
        url="https://github.com/user-attachments/assets/23507615-acc0-40cc-a503-d4c8e7cd57b9">
 
+##
+
+<strong>Catalogus librorum bibliothecæ Honorabilis Societatis Medii Templi,  Londini. Ordine dictionarii dispositus, 1734</strong>
+<br /><br />
+Printed in 1734, this catalogue organises the titles into alphabetical order, recording book size (e.g. folio, 8vo, 4to), printing location and date. It provides the locations, denoting the ‘seat and side’ and the shelf number, giving us an idea about how previous librarians classified and shelved the collection. On the pages displayed, we can see various annotations, like general updates and annotations that appear to be correcting printed inaccuracies. Books would’ve been added to the collection on a regular basis, before a new and updated  catalogue would’ve been printed.
+
 
 
 
