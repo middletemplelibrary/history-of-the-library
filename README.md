@@ -103,7 +103,7 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        url="https://github.com/user-attachments/assets/fbb3b02b-8b1c-444d-af16-ca53ed203c97">
 
 <param ve-image 
-       label="The New Middle Temple Library"
+       label="1925-1949, our ex-colleague, Assistant Librarian A.R. Hewitt"
        url="https://github.com/user-attachments/assets/e15de693-d228-4bb6-83fe-cc9b60372306">
 
 
