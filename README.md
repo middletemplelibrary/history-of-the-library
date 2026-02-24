@@ -106,11 +106,13 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="1925-1949, our ex-colleague, Assistant Librarian A.R. Hewitt"
        url="https://github.com/user-attachments/assets/e15de693-d228-4bb6-83fe-cc9b60372306">
 
+<param ve-image 
+       label="1927, Middle Temple Library prior to the Second World War"
+       url="https://github.com/user-attachments/assets/4fc3b43e-677c-4bc7-ba25-41da3450f197">
 
 
 
 
-![old lib 4](https://github.com/user-attachments/assets/4fc3b43e-677c-4bc7-ba25-41da3450f197)
 
 
 
