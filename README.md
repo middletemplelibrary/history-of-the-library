@@ -78,10 +78,12 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
        label="New Parliament Chamber Library Plan A"
        url="https://github.com/user-attachments/assets/d76f1626-3f86-4d55-86cb-b42270bc0aaa">
 
+<param ve-image 
+       label="New Parliament Chamber Library Plan B"
+       url="https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a">
 
 
 
-![plan b](https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a)
 
 
 
