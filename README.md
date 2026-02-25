@@ -41,7 +41,7 @@ Ashley's death is mentioned in the Minutes of Parliament and the text of his wil
 
 
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following. With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks.</strong> London :  Printed by Edward Griffin for Iohn Parker, 1618.
-In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope.  Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
+In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
 This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
 
@@ -56,13 +56,6 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
 <param ve-image 
        label="Robert Ashley's will"
        url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
-
-
-![bainbridge](https://github.com/user-attachments/assets/f5bc32fa-ecea-426c-ac1e-c711c15f5307)
-
-![bainbridge2](https://github.com/user-attachments/assets/ba1ff228-f498-40d0-b373-5a1efeba3538)
-
-![bainbridge3](https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c)
 
 
 ## Early Days of the Library
@@ -83,10 +76,7 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
        label="Inscription in Angliæ Notitia"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
-##
-
-<strong>New Parliament Chamber Library</strong>
-<br /><br />
+## New Parliament Chamber Library
 By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in Inns of Court, 1800, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
@@ -99,16 +89,12 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
        label="New Parliament Chamber Library Plan B"
        url="https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a">
 
-##
-
-<strong>1857 Library Committee minutes discussing plans for the new Library’s location, 14 April 1857</strong>
-<br /><br />
+## 1857 Library Committee minutes discussing plans for the new Library’s location, 14 April 1857
 In 1857, it was finally decided that a new building was required to encompass all the Library’s collections. A number of possible locations were deliberated. These Library Committee minutes show how unpopular the plan to build a new library on the fountain court site was. We can see that it provoked such a stir as to inspire a petition against it, signed by the Inn’s barrister members.
 <br /><br />
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
 ## The Gothic Library
-
 Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was opened on the 31st October 1861 by the Royal Bencher of the Inn, the Prince of Wales (later HRH Edward VI). It was 86 feet long, 42 feet in width and able to house up to 60,000 books; the Library was finally able to accommodate its growing collection. 
 <br /><br />
 The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
@@ -135,10 +121,7 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="The Old Middle Temple Library prior to the Second World War"
        url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
 
-##
-
-<strong>Heating the Library, 1860</strong>
-<br /><br />
+## Heating the Library, 1860
 The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting.  
 <br /><br />
 The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
@@ -151,16 +134,10 @@ The Library sought to alleviate these discomforts over the years. We can see fro
        label="Estimate for warming the Library B"
        url="https://github.com/user-attachments/assets/7ce7893a-6855-4d73-ab10-f2327a629921">
 
-##
-
-<strong>Heating the Library, 1928</strong>
-<br /><br />
+## >Heating the Library, 1928
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
 
-##
-
-<strong>Wartime Library [photos]; letter to Miss Woodward of Pump Court</strong>
-<br /><br />
+## Wartime and the Library
 The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. This letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
@@ -173,10 +150,7 @@ In 1941 a bomb fell that caused the Library roof to cave in and rendered the bui
        label="Bomb damage to the old Library (looking north)"
        url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
 
-##
-
-<strong>Temporary Library</strong>
-<br /><br />
+## Temporary Library
 Soon after the war, a temporary Library was built on the site where Nos. 2 and 3 Brick Court once stood (where the car park is situated today). It was opened 21st November 1946 by the Queen Mother and housed around 50,000 books.
 
 ##
