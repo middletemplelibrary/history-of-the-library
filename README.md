@@ -15,9 +15,6 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 
 The Inns of Court Libraries have enjoyed a long history. This exhibition traces Middle Temple Library from its Tudor conception to its modern day setting, using items from both the Library’s rare book collection and various items from the Archive.
 
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
 ## Origines juridiciales...
 or <strong><em>Historical memorials of the English laws, courts of justice, forms of tryall, punishment in cases criminal, law writers, law books, grants and settlements of estates, degree of serjeant, Innes of Court and Chancery. Also a chronologie of the lord chancelors and keepers of the great Seal, lord treasurers, justices itinerant, justices of the Kings Bench and Common Pleas, barons of the Exchequer, masters of the rolls, Kings attorneys and sollicitors, & serjeants at law by William Dugdale Esq; Norroy King of Arms. London : Printed for Christop. Wilkinson, Tho. Dring, and Charles Harper, and are to be sold at their Shops in Fleetstreet, 1680.</em></strong>
 <br /><br />
@@ -27,26 +24,22 @@ This work is rich with information about the history of English law, lawyers and
        label="Detail from Origines Juridiciales"
        url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388">
 
-## Refounding of the Library
-<strong><em>The Will of Robert Ashley, 1641</em></strong>
-<br /><br />
+## The Will of Robert Ashley, 1641
 The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
+<br /><br />
+Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
 
 <param ve-image 
        label="Robert Ashley's will"
        url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
-# Entry for Parliament holden 28 Jan., 1641 in the Minutes of Parliament
-
 <param ve-iframe
+       label="Minutes of Parliament of the Middle Temple, tr. and ed. by Charles Trice Martin with an inquiry into the origin and early history of the Inn by John Hutchinson: Vol. I, 1501-1603; Vol. II, 1603-1649; V. III, 1650-1703; and Index"
        src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
 
-##
-
-<strong><em>Angliæ notitia: or the present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679.</em></strong>
-<br /><br />
+## Angliæ notitia: or the present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679.
 An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, L'Estat Nouveau de la France. 
 <br /><br />
 This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
