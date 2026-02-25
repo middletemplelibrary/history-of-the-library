@@ -11,9 +11,7 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-# Middle Temple Library
-
-## An exhibition
+# The Library, an exhibition
 
 The Inns of Court Libraries have enjoyed a long history. This exhibition traces Middle Temple Library from its Tudor conception to its modern day setting, using items from both the Library’s rare book collection and various items from the Archive.
 
