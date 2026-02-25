@@ -38,6 +38,11 @@ In his will, Ashley specifies that the collection should be used by any student 
        label="Robert Ashley's will"
        url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
+# Entry for Parliament holden 28 Jan., 1641 in the Minutes of Parliament
+
+<param ve-iframe
+       src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
+
 ##
 
 <strong><em>Angliæ notitia: or the present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679.</em></strong>
