@@ -39,8 +39,10 @@ Ashley's death is mentioned in the Minutes of Parliament and the text of his wil
        label="Minutes of Parliament of the Middle Temple, tr. and ed. by Charles Trice Martin with an inquiry into the origin and early history of the Inn by John Hutchinson: Vol. I, 1501-1603; Vol. II, 1603-1649; V. III, 1650-1703; and Index"
        src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
 
-## Angliæ notitia: or the present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679.
-An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, L'Estat Nouveau de la France. 
+## Angliæ notitia
+or, <strong><em>The present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679. </em></strong>
+<br /><br />
+An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, L'Estat Nouveau de la France.
 <br /><br />
 This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
 
@@ -48,9 +50,9 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
        label="Inscription in Angliæ Notitia"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
-## Ashley's Bequest
-<strong>An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following. With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks.</strong> London :  Printed by Edward Griffin for Iohn Parker, 1618.
-<br /><br />
+# Ashley's Bequest
+
+## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following. With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks.</strong> London :  Printed by Edward Griffin for Iohn Parker, 1618.
 In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope.  Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
 This item is part of Robert Ashley's bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
