@@ -57,13 +57,19 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
        label="Robert Ashley's will"
        url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
 
-
-## Early Days of the Library
-
-Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
+<strong>1693-1694 No. 110  16 November 1694 receipt book / The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>
 <br /><br />
-NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
-The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today! 
+Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and   payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
+ <br /><br />
+One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
+
+<param ve-image 
+       label="1694 Receipt Book"
+       url="https://github.com/user-attachments/assets/3ccfd20b-74f9-40de-b0c8-efb43c95fa00">
+
+<param ve-image 
+       label="The New Natura Brevium"
+       url="https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2">
 
 ## Angliæ notitia
 or, <strong><em>The present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679. </em></strong>
@@ -75,6 +81,14 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
 <param ve-image 
        label="Inscription in Angliæ Notitia"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
+
+## Early Days of the Library
+
+Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
+<br /><br />
+NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
+The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today! 
+
 
 ## New Parliament Chamber Library
 By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in Inns of Court, 1800, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
@@ -134,7 +148,7 @@ The Library sought to alleviate these discomforts over the years. We can see fro
        label="Estimate for warming the Library B"
        url="https://github.com/user-attachments/assets/7ce7893a-6855-4d73-ab10-f2327a629921">
 
-## >Heating the Library, 1928
+## Heating the Library, 1928
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
 
 ## Wartime and the Library
@@ -181,21 +195,8 @@ The Ashley Library, some members may notice bears some resemblance to the Librar
 <br /><br />
 In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
 
-## The Collections
 
-<strong>1693-1694 No. 110  16 November 1694 receipt book / The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>
-<br /><br />
-Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and   payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
- <br /><br />
-One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
 
-<param ve-image 
-       label="1694 Receipt Book"
-       url="https://github.com/user-attachments/assets/3ccfd20b-74f9-40de-b0c8-efb43c95fa00">
-
-<param ve-image 
-       label="The New Natura Brevium"
-       url="https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2">
 
 ## Donations
 
