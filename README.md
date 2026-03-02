@@ -61,6 +61,7 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
 
 ## 1693-1694 No. 110 16 November 1694 receipt book
 and, <strong>The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>
+<br /><br />
 Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and   payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
  <br /><br />
 One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
