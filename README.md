@@ -40,25 +40,25 @@ Ashley's death is mentioned in the Minutes of Parliament and the text of his wil
        src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
 
 
-## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following. With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks.</strong> London :  Printed by Edward Griffin for Iohn Parker, 1618.
+## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
+<strong>With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks.</strong> London :  Printed by Edward Griffin for Iohn Parker, 1618.</strong>
 In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
 This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
 
 <param ve-image 
-       label="Robert Ashley's will"
+       label="Detail from An astronomicall description of the late comet"
        url="https://github.com/user-attachments/assets/f5bc32fa-ecea-426c-ac1e-c711c15f5307">
 
 <param ve-image 
-       label="Robert Ashley's will"
+       label="Detail from An astronomicall description of the late comet"
        url="https://github.com/user-attachments/assets/ba1ff228-f498-40d0-b373-5a1efeba3538">
 
 <param ve-image 
-       label="Robert Ashley's will"
+       label="Detail from An astronomicall description of the late comet"
        url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
 
-<strong>1693-1694 No. 110  16 November 1694 receipt book / The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>
-<br /><br />
+## 1693-1694 No. 110  16 November 1694 receipt book / The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert 
 Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and   payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
  <br /><br />
 One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
