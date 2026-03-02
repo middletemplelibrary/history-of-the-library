@@ -267,9 +267,4 @@ This is an example of a catalogue record from the card catalogue that became the
        label="Library card"
        url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
 
-![librarycard](https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5)
-
-<param ve-iframe
-       label="The online library catalogue"
-       src="https://www.middletemplelibrary.org.uk/client/en_GB/default">
 
