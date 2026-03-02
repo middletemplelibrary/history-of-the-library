@@ -147,9 +147,7 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
 
 ## Heating the Library, 1860
-The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting.  
-<br /><br />
-The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
+The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 
 <param ve-image 
        label="Estimate for warming the Library A"
@@ -265,5 +263,13 @@ Printed in 1734, this catalogue organises the titles into alphabetical order, re
 <br /><br />
 This is an example of a catalogue record from the card catalogue that became the norm in the nineteenth century in libraries. You can find the card catalogue on the Gallery before you enter the Library and on the third floor, next to the US collection. Today, the Library uses an online public access catalogue (OPAC) to organise its collections. Scan the QR code to use the catalogue.
 
+<param ve-image 
+       label="Library card"
+       url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
 
+![librarycard](https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5)
+
+<param ve-iframe
+       label="The online library catalogue"
+       src="https://www.middletemplelibrary.org.uk/client/en_GB/default">
 
