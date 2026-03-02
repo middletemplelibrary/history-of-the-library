@@ -42,6 +42,7 @@ Ashley's death is mentioned in the Minutes of Parliament and the text of his wil
 
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
 <strong>With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks. London :  Printed by Edward Griffin for Iohn Parker, 1618.</strong>
+<br /><br />
 In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
 This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
@@ -59,6 +60,7 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
        url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
 
 ## 1693-1694 No. 110  16 November 1694 receipt book / The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert 
+<br /><br />
 Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and   payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
  <br /><br />
 One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
@@ -83,11 +85,26 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
 ## Early Days of the Library
-
+<br /><br />
 Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
 <br /><br />
 NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
 The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today! 
+
+<param ve-image 
+       label="Inscription in Angliæ Notitia"
+       url="https://github.com/user-attachments/assets/29a46e82-eefc-4ff1-baf2-05d7ec9a699e">
+
+
+<param ve-image 
+       label="Inscription in Angliæ Notitia"
+       url="https://github.com/user-attachments/assets/24fcf59a-cf1a-4eed-9f63-337ca66a71bb">
+
+
+![Havery enq john ogilbyplan1677](https://github.com/user-attachments/assets/29a46e82-eefc-4ff1-baf2-05d7ec9a699e)
+
+![Havery enqdeed of partition 1732](https://github.com/user-attachments/assets/24fcf59a-cf1a-4eed-9f63-337ca66a71bb)
+
 
 
 ## New Parliament Chamber Library
