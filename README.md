@@ -227,10 +227,8 @@ This list of public offices under King George III is open on a page displaying M
 <br /><br />
 Originally printed in 1651, this is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it       compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. Similar to Ashley, Petyt left his collection to Inner Temple with £150 for buying a place to preserve it, which resulted in the Library being enlarged to accommodate the bequest.
 
-##
-
-<strong>Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 & Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
-<br /><br />
+## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
+and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
 The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
  <br /><br />
 It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
@@ -257,17 +255,8 @@ It was started in 1700 and lists all major donations to the library covering 164
        label="Inscription from Bibliotheca illustris Medii Templi Societatis"
        url="https://github.com/user-attachments/assets/6a3c4c38-83cd-4a42-ab7a-848126a9607d">
 
-       
 
-![1700cattp](https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59)
-
-![1700catinscrip](https://github.com/user-attachments/assets/6a3c4c38-83cd-4a42-ab7a-848126a9607d)
-
-
-##
-
-<strong>Catalogus librorum bibliothecæ Honorabilis Societatis Medii Templi, Londini. Ordine dictionarii dispositus, 1734</strong>
-<br /><br />
+## Catalogus librorum bibliothecæ Honorabilis Societatis Medii Templi, Londini. Ordine dictionarii dispositus, 1734
 Printed in 1734, this catalogue organises the titles into alphabetical order, recording book size (e.g. folio, 8vo, 4to), printing location and date. It provides the locations, denoting the ‘seat and side’ and the shelf number, giving us an idea about how previous librarians classified and shelved the collection. On the pages displayed, we can see various annotations, like general updates and annotations that appear to be correcting printed inaccuracies. Books would’ve been added to the collection on a regular basis, before a new and updated  catalogue would’ve been printed.
 
 <param ve-image 
