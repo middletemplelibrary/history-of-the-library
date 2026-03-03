@@ -141,6 +141,12 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
 <param ve-image 
        label="The New Middle Temple Library"
        url="https://github.com/user-attachments/assets/fbb3b02b-8b1c-444d-af16-ca53ed203c97">
+       
+<param ve-image 
+       label="The Illustrated London News, June 22, 1861"
+       url="https://github.com/user-attachments/assets/20079146-251d-4d77-9705-e5f87ac73d19">
+
+![illustratednews](https://github.com/user-attachments/assets/20079146-251d-4d77-9705-e5f87ac73d19)
 
 <param ve-image 
        label="1925-1949, our ex-colleague, Assistant Librarian A.R. Hewitt"
@@ -210,6 +216,9 @@ The Ashley Library, some members may notice bears some resemblance to the Librar
        label="The Ashley Building"
        url="https://github.com/user-attachments/assets/ece11542-4f82-48ea-b99d-ed804a2128cb">
 
+
+
+
 ## The American Floor
 In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
 
@@ -217,10 +226,6 @@ In 1954, the Library received a donation of 550 volumes of American law reports 
 <param ve-image 
        label="The American Library, 1952. MT/19/PHO/5/9/1 "
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
-
-
-       
-![americanfloor](https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d)
 
 
 # Donations
