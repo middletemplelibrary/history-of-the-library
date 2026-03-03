@@ -29,15 +29,17 @@ This work is rich with information about the history of English law, lawyers and
 
 
 ## The Will of Robert Ashley, 1641
-<param ve-image 
-       label="Robert Ashley"
-       url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388"
-       left>
+
 The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 <br /><br />
 Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
+
+<param ve-image 
+       label="Robert Ashley"
+       url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388"
+       top>
 
 <param ve-image 
        label="Robert Ashley's will"
