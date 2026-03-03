@@ -231,21 +231,38 @@ Originally printed in 1651, this is the only known work by hermetic philosopher 
 
 <strong>Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 & Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
 <br /><br />
-The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the left.
+The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
  <br /><br />
-It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue (displayed below). It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
+It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
 <param ve-image 
-       label="Sir Bartholomew Shower"
+       label=">Title page of Liber benefactorum 1641-1711, 1826-84."
        url="https://github.com/user-attachments/assets/f5013be8-e343-4611-9f15-fa3b42e2891a">
 
 <param ve-image 
-       label="An early Library catalogue"
+       label="First page of Liber benefactorum 1641-1711, 1826-84."
        url="https://github.com/user-attachments/assets/aa175053-6acd-45b2-900d-ba3dafef7cf7">
 
 <param ve-image 
-       label="Library donations 1826"
+       label="Page listing donations in 1826 in Liber benefactorum 1641-1711, 1826-84."
        url="https://github.com/user-attachments/assets/23507615-acc0-40cc-a503-d4c8e7cd57b9">
+
+
+<param ve-image 
+       label="Title page of first printed catalogue from 1700, Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower"
+       url="https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59">
+
+
+<param ve-image 
+       label="Inscription from Bibliotheca illustris Medii Templi Societatis"
+       url="https://github.com/user-attachments/assets/6a3c4c38-83cd-4a42-ab7a-848126a9607d">
+
+       
+
+![1700cattp](https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59)
+
+![1700catinscrip](https://github.com/user-attachments/assets/6a3c4c38-83cd-4a42-ab7a-848126a9607d)
+
 
 ##
 
