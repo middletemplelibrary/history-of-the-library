@@ -7,7 +7,6 @@
        
 ## 
 Welcome to Middle Temple Library’s exhibition on the History of the Library
-
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
@@ -24,9 +23,6 @@ This work is rich with information about the history of English law, lawyers and
 <param ve-image 
        label="Detail from Origines Juridiciales"
        url="https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e">
-
-![dugdale](https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e)
-
 
 ## The Will of Robert Ashley, 1641
 
