@@ -22,7 +22,9 @@ This work is rich with information about the history of English law, lawyers and
 
 <param ve-image 
        label="Detail from Origines Juridiciales"
-       url="https://github.com/user-attachments/assets/91da202e-67c7-469b-9812-ef129c126854">
+       url="https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e">
+
+![dugdale](https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e)
 
 
 ## The Will of Robert Ashley, 1641
@@ -33,10 +35,11 @@ In his will, Ashley specifies that the collection should be used by any student 
 <br /><br />
 Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
 
+![RobertAshley](https://github.com/user-attachments/assets/ef63ee56-6287-4470-b8bc-cd2e2d681608)
+
 <param ve-image 
-       label="Robert Ashley"
-       url="https://github.com/user-attachments/assets/df0f2106-bab7-430e-9342-b32b03d6e388"
-       top>
+       label="Robert Ashley's will"
+       url="https://github.com/user-attachments/assets/ef63ee56-6287-4470-b8bc-cd2e2d681608">
 
 <param ve-image 
        label="Robert Ashley's will"
