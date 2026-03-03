@@ -136,7 +136,7 @@ Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was open
 <br /><br />
 The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
 <br /><br />
-Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the Library. Look closely at the photo showing the north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in est. 1565 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
+Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. 
 
 <param ve-image 
        label="The New Middle Temple Library"
@@ -145,8 +145,6 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
 <param ve-image 
        label="The Illustrated London News, June 22, 1861"
        url="https://github.com/user-attachments/assets/20079146-251d-4d77-9705-e5f87ac73d19">
-
-![illustratednews](https://github.com/user-attachments/assets/20079146-251d-4d77-9705-e5f87ac73d19)
 
 <param ve-image 
        label="1925-1949, our ex-colleague, Assistant Librarian A.R. Hewitt"
@@ -185,14 +183,17 @@ In 1928, the Library decided to upgrade its heating. This quote sets out the cha
 The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. This letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
+<br /><br />
+Though much was destroyed, astonishingly, much also survived. Look closely at the photo showing the damage at north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in 1565 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
+
+<param ve-image 
+       label="Bomb damage to the old Library (looking north)"
+       url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
 
 <param ve-image 
        label="The clean-up operation in the old Library"
        url="https://github.com/user-attachments/assets/7a3e5c2d-996c-41ec-8691-5864b77e1239">
 
-<param ve-image 
-       label="Bomb damage to the old Library (looking north)"
-       url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
 
 ## Postwar and towards a new the Library
 
