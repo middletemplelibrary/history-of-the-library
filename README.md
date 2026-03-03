@@ -216,11 +216,11 @@ In 1954, the Library received a donation of 550 volumes of American law reports 
 
 <param ve-image 
        label="The American Library, 1952. MT/19/PHO/5/9/1 "
-       url="https://github.com/user-attachments/assets/f575d821-ed11-4732-bccc-861f97a7ce51">
+       url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
 
-![americanfloor](https://github.com/user-attachments/assets/f575d821-ed11-4732-bccc-861f97a7ce51)
 
        
+![americanfloor](https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d)
 
 
 # Donations
