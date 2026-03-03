@@ -205,6 +205,13 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 The temporary Library was demolished in 1958 to make way for the car park.
 
+<param ve-image 
+       label="Press cutting regarding the temporary library. MT 19/PHO/5/16"
+       url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
+
+![newspaper clipping](https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092)
+
+
 ## The Ashley Building Library
 
 The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
