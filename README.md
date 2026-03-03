@@ -207,7 +207,7 @@ The temporary Library was demolished in 1958 to make way for the car park.
 
 <param ve-image 
        label="Press cutting regarding the temporary library. MT 19/PHO/5/16"
-       url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
+       url="https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092)">
 
 ![newspaper clipping](https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092)
 
