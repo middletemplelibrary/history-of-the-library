@@ -123,6 +123,7 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
 <param ve-image 
        label="New Parliament Chamber Library Plan B"
        url="https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a">
+       
 
 ## Library Committee minutes discussing plans for the new Library’s location, 14 April 1857
 
@@ -132,7 +133,11 @@ The final site was ultimately decided with the purchase of new land, known as Es
 
 <param ve-image 
        label="Minutes"
-       url="https://github.com/user-attachments/assets/3daaeecf-1cd0-4854-bf39-a9d3756e15e9">
+       url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
+
+
+![minutes2](https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636)
+
 
 ## The Gothic Library
 
@@ -216,11 +221,10 @@ The temporary Library was demolished in 1958 to make way for the car park.
 
 <param ve-image 
        label="The temporary library"
-       url="https://github.com/user-attachments/assets/0aff19dc-d8d8-4b4d-bad0-62f54b814e11">
+       url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
 
 
-
-<img width="2437" height="1842" alt="temporary library" src="https://github.com/user-attachments/assets/0aff19dc-d8d8-4b4d-bad0-62f54b814e11" />
+![temporary library](https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951)
 
 
 ## The Ashley Building Library
