@@ -134,8 +134,6 @@ The final site was ultimately decided with the purchase of new land, known as Es
        label="Minutes"
        url="https://github.com/user-attachments/assets/3daaeecf-1cd0-4854-bf39-a9d3756e15e9">
 
-![minutes](https://github.com/user-attachments/assets/3daaeecf-1cd0-4854-bf39-a9d3756e15e9)
-
 ## The Gothic Library
 
 Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was opened on the 31st October 1861 by the Royal Bencher of the Inn, the Prince of Wales (later HRH Edward VI). It was 86 feet long, 42 feet in width and able to house up to 60,000 books; the Library was finally able to accommodate its growing collection. 
@@ -211,11 +209,18 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 The temporary Library was demolished in 1958 to make way for the car park.
 
+
 <param ve-image 
        label="Press cutting regarding the temporary library. MT 19/PHO/5/16"
        url="https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092">
 
-![newspaper clipping](https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092)
+<param ve-image 
+       label="The temporary library"
+       url="https://github.com/user-attachments/assets/0aff19dc-d8d8-4b4d-bad0-62f54b814e11">
+
+
+
+<img width="2437" height="1842" alt="temporary library" src="https://github.com/user-attachments/assets/0aff19dc-d8d8-4b4d-bad0-62f54b814e11" />
 
 
 ## The Ashley Building Library
