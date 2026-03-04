@@ -12,7 +12,8 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 
 # The Library, an exhibition
 
-The Inns of Court Libraries have enjoyed a long history. This exhibition traces Middle Temple Library from its Tudor conception to its modern day setting, using items from both the Library’s rare book collection and various items from the Archive.
+At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
+
 
 ## Origines juridiciales...
 
@@ -135,10 +136,6 @@ The final site was ultimately decided with the purchase of new land, known as Es
        label="Minutes"
        url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
 
-
-![minutes2](https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636)
-
-
 ## The Gothic Library
 
 Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was opened on the 31st October 1861 by the Royal Bencher of the Inn, the Prince of Wales (later HRH Edward VI). It was 86 feet long, 42 feet in width and able to house up to 60,000 books; the Library was finally able to accommodate its growing collection. 
@@ -204,7 +201,7 @@ Though much was destroyed, astonishingly, much also survived. Look closely at th
        url="https://github.com/user-attachments/assets/7a3e5c2d-996c-41ec-8691-5864b77e1239">
 
 
-## Postwar and towards a new the Library
+## Postwar and towards a new Library
 
 Soon after the war, a temporary Library was built on the site where Nos. 2 and 3 Brick Court once stood (where the car park is situated today). It was opened 21st November 1946 by the Queen Mother and housed around 50,000 books. Despite war and damage, the Library continued its work, even accepting donations from other libraries, such as the Edward Sage donation lower down the page. 
 <br /><br />
@@ -222,9 +219,6 @@ The temporary Library was demolished in 1958 to make way for the car park.
 <param ve-image 
        label="The temporary library"
        url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
-
-
-![temporary library](https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951)
 
 
 ## The Ashley Building Library
