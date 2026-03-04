@@ -33,7 +33,7 @@ In his will, Ashley specifies that the collection should be used by any student 
 Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
 
 <param ve-image 
-       label="Robert Ashley's will"
+       label="Portrait of Robert Ashley by Thomas Leigh, 1695"
        url="https://github.com/user-attachments/assets/ef63ee56-6287-4470-b8bc-cd2e2d681608">
 
 <param ve-image 
@@ -101,12 +101,12 @@ NOTE:  Buildings around the Inn have changed their names throughout the years. C
 The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today! 
 
 <param ve-image 
-       label="Inscription in Angliæ Notitia"
+       label="Detail of map by John Ogilby, 1677"
        url="https://github.com/user-attachments/assets/29a46e82-eefc-4ff1-baf2-05d7ec9a699e">
 
 
 <param ve-image 
-       label="Inscription in Angliæ Notitia"
+       label="Plan on deed of parition (0f Middle and Inner Temple), 1732"
        url="https://github.com/user-attachments/assets/24fcf59a-cf1a-4eed-9f63-337ca66a71bb">
 
 
@@ -124,11 +124,17 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
        label="New Parliament Chamber Library Plan B"
        url="https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a">
 
-## 1857 Library Committee minutes discussing plans for the new Library’s location, 14 April 1857
+## Library Committee minutes discussing plans for the new Library’s location, 14 April 1857
 
 In 1857, it was finally decided that a new building was required to encompass all the Library’s collections. A number of possible locations were deliberated. These Library Committee minutes show how unpopular the plan to build a new library on the fountain court site was. We can see that it provoked such a stir as to inspire a petition against it, signed by the Inn’s barrister members.
 <br /><br />
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
+
+<param ve-image 
+       label="Minutes"
+       url="https://github.com/user-attachments/assets/3daaeecf-1cd0-4854-bf39-a9d3756e15e9">
+
+![minutes](https://github.com/user-attachments/assets/3daaeecf-1cd0-4854-bf39-a9d3756e15e9)
 
 ## The Gothic Library
 
@@ -207,7 +213,7 @@ The temporary Library was demolished in 1958 to make way for the car park.
 
 <param ve-image 
        label="Press cutting regarding the temporary library. MT 19/PHO/5/16"
-       url="https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092)">
+       url="https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092">
 
 ![newspaper clipping](https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092)
 
