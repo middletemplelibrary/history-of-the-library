@@ -10,12 +10,12 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
-# The Library, an exhibition
+## The Library, an exhibition
 
 At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
 
 <param ve-image 
-       label="Detail from Origines Juridiciales, 1680"
+       label="Middle Temple Library"
        url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
 
 
