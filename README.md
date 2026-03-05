@@ -18,8 +18,6 @@ At Middle Temple there has been a library in some form since 1540 and this exhib
        label="Detail from Origines Juridiciales, 1680"
        url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
 
-![mtlib](https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5)
-
 
 ## Origines juridiciales...
 
@@ -43,8 +41,6 @@ In his will, Ashley specifies that the collection should be used by any student 
 <br /><br />
 Learn more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley
 
-![RobertAshley2](https://github.com/user-attachments/assets/dad45184-8b6a-42e3-9dff-031f5ec44b29)
-
 
 <param ve-image 
        label="Portrait of Robert Ashley by Thomas Leigh, 1656"
@@ -65,7 +61,7 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
 <br /><br />
 In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
-This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
+This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him. He was perhaos our most notable benefactor, but the Library has recieved other donations too and continues to do so. 
 
 <param ve-image 
        label="Detail from An astronomicall description of the late come0, 1618"
@@ -84,6 +80,23 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
 <strong> In which is contained true definitions of the said arts, and the justification of their practise, proved by the authority of Scripture, and the experience of ancient and modern authors. With observations from several remarkable conjunctions and apparitions: as those three suns that appeared before the Kings death, &c. Impartially communicated for the publique good. / By Hardick Warren, a well-wisher to the most secret occult arts and learning. London : Printed [by] J.M. for N. Brook, 1651.</strong>
 <br /><br />
 This is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. Similar to Ashley, Petyt left his collection to Inner Temple with £150 for buying a place to preserve it, which resulted in the Library being enlarged to accommodate the bequest.
+
+## The Establish’d State of the Publick Offices under His Majesty King George II. 
+<strong>Containing true and exact lists of the Lords of his Majesty’s privy-council. London: Printed for Weaver Bickerton, in Devereux Court, without Temple Bar; and sold by J. Roberts in Warwick-Lane; A. Dodd, without Temple-Bar; E. Nutt, at the Royal-Exchange, T. Green, at Charing-Cross, J. Penn, in Westminster-Hall, and P. Meighan, at Gray’s-Inn Gate, 1718.</strong>
+This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
+
+<param ve-image 
+       label="Stoke Newington Public Library Sage donation"
+       url="https://github.com/user-attachments/assets/58a9b689-723d-49b3-8c2a-61c3eac142d6">
+
+<param ve-image 
+       label="1718 Middle Temple Masters of the Bench"
+       url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
+
+## Shakspere's Holinshed : the chronicle and the historical plays compared by W. G. Boswell-Stone. London : Lawrence and Bullen, 1896. 
+
+This is a comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker. This work was donated to the Library by Master Cassels in 1965. 
+
 
 
 ## 1693-1694 No. 110 16 November 1694 receipt book
@@ -244,19 +257,6 @@ The temporary Library was demolished in 1958 to make way for the car park.
        url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
 
 
-## The Establish’d State of the Publick Offices under His Majesty King George II. 
-<strong>Containing true and exact lists of the Lords of his Majesty’s privy-council. London: Printed for Weaver Bickerton, in Devereux Court, without Temple Bar; and sold by J. Roberts in Warwick-Lane; A. Dodd, without Temple-Bar; E. Nutt, at the Royal-Exchange, T. Green, at Charing-Cross, J. Penn, in Westminster-Hall, and P. Meighan, at Gray’s-Inn Gate, 1718.</strong>
-This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
-
-<param ve-image 
-       label="Stoke Newington Public Library Sage donation"
-       url="https://github.com/user-attachments/assets/58a9b689-723d-49b3-8c2a-61c3eac142d6">
-
-<param ve-image 
-       label="1718 Middle Temple Masters of the Bench"
-       url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
-
-
 
 ## The Ashley Building Library
 
@@ -281,13 +281,6 @@ In 1954, the Library received a donation of 550 volumes of American law reports 
 
 
 
-## Shakspere's Holinshed : the chronicle and the historical plays compared by W. G. Boswell-Stone. London : Lawrence and Bullen, 1896. 
-
-This is a comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker. This work was donated to the Library by Master Cassels in 1965. 
-
-
-
- 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
 and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
 The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
@@ -333,5 +326,6 @@ This is an example of a catalogue record from the card catalogue that became the
 <param ve-image 
        label="Library card"
        url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
+
 
 
