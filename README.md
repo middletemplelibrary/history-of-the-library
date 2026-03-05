@@ -61,7 +61,7 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
 <br /><br />
 In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
-This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him. He was perhaos our most notable benefactor, but the Library has recieved other donations too and continues to do so. 
+This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him. He was perhaps our most notable benefactor, but the Library has recieved other donations too and continues to do so. 
 
 <param ve-image 
        label="Detail from An astronomicall description of the late come0, 1618"
