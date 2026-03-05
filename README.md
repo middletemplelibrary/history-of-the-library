@@ -14,6 +14,12 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 
 At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
 
+<param ve-image 
+       label="Detail from Origines Juridiciales, 1680"
+       url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
+
+![mtlib](https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5)
+
 
 ## Origines juridiciales...
 
@@ -37,10 +43,12 @@ In his will, Ashley specifies that the collection should be used by any student 
 <br /><br />
 Learn more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley
 
+![RobertAshley2](https://github.com/user-attachments/assets/dad45184-8b6a-42e3-9dff-031f5ec44b29)
+
 
 <param ve-image 
        label="Portrait of Robert Ashley by Thomas Leigh, 1656"
-       url="https://github.com/user-attachments/assets/ef63ee56-6287-4470-b8bc-cd2e2d681608">
+       url="https://github.com/user-attachments/assets/dad45184-8b6a-42e3-9dff-031f5ec44b29">
 
 <param ve-image 
        label="Robert Ashley's will, 1641"
