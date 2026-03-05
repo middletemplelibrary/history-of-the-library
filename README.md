@@ -71,6 +71,13 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
        label="Detail from An astronomicall description of the late comet, 1618"
        url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
 
+
+## Magick & astrology vindicated from those false aspersions and calumnies, which the ignorance of some hath cast upon them.
+<strong> In which is contained true definitions of the said arts, and the justification of their practise, proved by the authority of Scripture, and the experience of ancient and modern authors. With observations from several remarkable conjunctions and apparitions: as those three suns that appeared before the Kings death, &c. Impartially communicated for the publique good. / By Hardick Warren, a well-wisher to the most secret occult arts and learning. London : Printed [by] J.M. for N. Brook, 1651.</strong>
+<br /><br />
+This is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. Similar to Ashley, Petyt left his collection to Inner Temple with £150 for buying a place to preserve it, which resulted in the Library being enlarged to accommodate the bequest.
+
+
 ## 1693-1694 No. 110 16 November 1694 receipt book
 
 and, <strong>The new natura brevium of the most reverend judge Mr Anthony Fitz-herbert. Corrected and revised by the author. : With a perfect table of the most materiall things contained therein, composed by William Rastall. Whereunto is added the authorities in law; and some other cases and notes collected by the translator out of the year-books and abridgements; never before printed therewith. Newly translated into English. London : Printed for W. Lee, M. Walbanck, D. Pakeman, and G. Bedell, M.DC.LII.</strong>
@@ -98,6 +105,9 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
 <param ve-image 
        label="Inscription in Angliæ Notitia, 1679"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
+
+
+
 
 ## Early Days of the Library
 
@@ -226,33 +236,6 @@ The temporary Library was demolished in 1958 to make way for the car park.
        url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
 
 
-## The Ashley Building Library
-
-The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
- <br /><br />
-With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2017.
-<br /><br />
-The Ashley Library, some members may notice bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
-
-<param ve-image 
-       label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
-       url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
-
-![ashleybuilding](https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f)
-
-
-
-## The American Floor
-In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
-
-
-<param ve-image 
-       label="The American Library, 1952. MT/19/PHO/5/9/1 "
-       url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
-
-
-# Donations
-
 ## The Establish’d State of the Publick Offices under His Majesty King George II. 
 <strong>Containing true and exact lists of the Lords of his Majesty’s privy-council. London: Printed for Weaver Bickerton, in Devereux Court, without Temple Bar; and sold by J. Roberts in Warwick-Lane; A. Dodd, without Temple-Bar; E. Nutt, at the Royal-Exchange, T. Green, at Charing-Cross, J. Penn, in Westminster-Hall, and P. Meighan, at Gray’s-Inn Gate, 1718.</strong>
 This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
@@ -265,16 +248,38 @@ This list of public offices under King George III is open on a page displaying M
        label="1718 Middle Temple Masters of the Bench"
        url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
 
-## Magick & astrology vindicated from those false aspersions and calumnies, which the ignorance of some hath cast upon them.
-<strong> In which is contained true definitions of the said arts, and the justification of their practise, proved by the authority of Scripture, and the experience of ancient and modern authors. With observations from several remarkable conjunctions and apparitions: as those three suns that appeared before the Kings death, &c. Impartially communicated for the publique good. / By Hardick Warren, a well-wisher to the most secret occult arts and learning. Oxford : Clarendon press, 1761.</strong>
+
+
+## The Ashley Building Library
+
+The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
+ <br /><br />
+With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2017.
 <br /><br />
-Originally printed in 1651, this is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. Similar to Ashley, Petyt left his collection to Inner Temple with £150 for buying a place to preserve it, which resulted in the Library being enlarged to accommodate the bequest.
+The Ashley Library, some members may notice bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
+
+<param ve-image 
+       label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
+       url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
+
+## The American Floor
+In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
+
+
+<param ve-image 
+       label="The American Library, 1952. MT/19/PHO/5/9/1 "
+       url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
+
+
 
 
 ## Shakspere's Holinshed : the chronicle and the historical plays compared by W. G. Boswell-Stone. London : Lawrence and Bullen, 1896. 
 
-This comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles, was donated to the Library by Master Cassels in 1965. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker.  
+This is a comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker. This work was donated to the Library by Master Cassels in 1965. 
 
+
+
+ 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
 and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
 The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
