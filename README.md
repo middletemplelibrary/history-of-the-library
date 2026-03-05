@@ -97,7 +97,19 @@ This list of public offices under King George III is open on a page displaying M
 
 This is a comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker. This work was donated to the Library by Master Cassels in 1965. 
 
+<param ve-image 
+       label="Shakespere's Holinshed, 1896"
+       url="https://github.com/user-attachments/assets/e2246491-7a9f-4dd6-9724-49d146be6630">
 
+ <param ve-image 
+       label="Henry Irving bookplate"
+       url="https://github.com/user-attachments/assets/a0ac4e67-7b1f-453b-84ee-62ff029611fd">
+
+
+![SirHenryIrvingBookplate](https://github.com/user-attachments/assets/a0ac4e67-7b1f-453b-84ee-62ff029611fd)
+
+
+![ShakespereHolinshed t p](https://github.com/user-attachments/assets/e2246491-7a9f-4dd6-9724-49d146be6630)
 
 ## 1693-1694 No. 110 16 November 1694 receipt book
 
