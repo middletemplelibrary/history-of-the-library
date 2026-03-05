@@ -31,11 +31,12 @@ Read more about book thefts and the Library in this post by Middle Temple Archiv
 
 ## The Will of Robert Ashley, 1641
 
-The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
+The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of approximately 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
-In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
+In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the Minutes of Parliament the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 <br /><br />
-Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
+Learn more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley
+
 
 <param ve-image 
        label="Portrait of Robert Ashley by Thomas Leigh, 1695"
