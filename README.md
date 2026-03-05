@@ -216,7 +216,7 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="Snow on the steps of the old Library, 1935"
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
-## Heating the Library
+## Grotesque, Draughty and Dark: Heating
 
 The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 <br /><br />
@@ -234,6 +234,15 @@ In 1928, the Library decided to upgrade its heating. This quote sets out the cha
        label="Letter to the Undertreasurer from Benham and Sons, 1928"
        url="https://github.com/user-attachments/assets/5891cd1a-18db-4612-af7d-637a52296e1e">
 
+## Lighting
+
+The lighting of such a big space was also a cause for concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. 
+Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. This letter shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
+<br /><br />
+In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
+
+## Drainage, 1900-2002 
+This report, written in 1900, identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
 ## Wartime and the Library
 
