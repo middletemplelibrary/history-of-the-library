@@ -99,11 +99,14 @@ This is a comparative study of the history plays by Shakespeare and their source
 
 <param ve-image 
        label="Shakespere's Holinshed, 1896"
-       url="https://github.com/user-attachments/assets/192f0053-372d-4cae-9874-47e329a708aa">
+       url="https://github.com/user-attachments/assets/9dd72f88-620a-4a19-87dd-b5b22ec03431">
 
  <param ve-image 
        label="Henry Irving bookplate"
        url="https://github.com/user-attachments/assets/a0ac4e67-7b1f-453b-84ee-62ff029611fd">
+
+![ShakespereHolinshed](https://github.com/user-attachments/assets/9dd72f88-620a-4a19-87dd-b5b22ec03431)
+
 
 ## 1693-1694 No. 110 16 November 1694 receipt book
 
