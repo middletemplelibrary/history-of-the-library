@@ -184,7 +184,7 @@ Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was open
 <br /><br />
 The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
 <br /><br />
-Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. 
+Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. However, though it was a vast improvent on what came before, this Library came with a whole new set of problems. 
 
 <param ve-image 
        label="The Old Middle Temple Library prior to the Second World War, MT19/PHO/5/2/9"
@@ -210,7 +210,7 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="Snow on the steps of the old Library, 1935"
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
-## Grotesque, Draughty and Dark: Heating
+## Heating
 
 The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 <br /><br />
@@ -235,7 +235,8 @@ Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 th
 <br /><br />
 In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
-## Drainage, 1900-2002 
+## Drainage
+
 This report, written in 1900, identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
 ## Wartime and the Library
