@@ -138,7 +138,7 @@ In 1857, it was finally decided that a new building was required to encompass al
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
 <param ve-image 
-       label="Minutes"
+       label=Library Committee minutes discussing plans for the new Library’s location, 14 April 1857 (MT/9/LCM/1)"
        url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
 
 ## The Gothic Library
@@ -158,19 +158,19 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        url="https://github.com/user-attachments/assets/20079146-251d-4d77-9705-e5f87ac73d19">
 
 <param ve-image 
-       label="1925-1949, our ex-colleague, Assistant Librarian A.R. Hewitt"
+       label="An ex-colleague, Assistant Librarian A.R. Hewitt, 1925-1949"
        url="https://github.com/user-attachments/assets/e15de693-d228-4bb6-83fe-cc9b60372306">
 
 <param ve-image 
-       label="1927, Middle Temple Library prior to the Second World War"
+       label="Middle Temple Library prior to the Second World War, 1927"
        url="https://github.com/user-attachments/assets/4fc3b43e-677c-4bc7-ba25-41da3450f197">
 
 <param ve-image 
-       label="1935, Snow on the steps of the old Library"
+       label="Snow on the steps of the old Library, 1935"
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
 <param ve-image 
-       label="The Old Middle Temple Library prior to the Second World War"
+       label="The Old Middle Temple Library prior to the Second World War, MT19/PHO/5/2/9"
        url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
 
 ## Heating the Library, 1860
