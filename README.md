@@ -35,7 +35,7 @@ The Library was officially re-founded by Robert Ashley (1565-1641) when he beque
 <br /><br />
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 <br /><br />
-Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
+Ashley's death is mentioned in the [Minutes of Parliament](https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499) and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
 
 <param ve-image 
        label="Portrait of Robert Ashley by Thomas Leigh, 1695"
