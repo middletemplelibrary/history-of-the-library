@@ -99,7 +99,7 @@ This is a comparative study of the history plays by Shakespeare and their source
 
 <param ve-image 
        label="Shakespere's Holinshed, 1896"
-       url="https://github.com/user-attachments/assets/e2246491-7a9f-4dd6-9724-49d146be6630">
+       url="https://github.com/user-attachments/assets/192f0053-372d-4cae-9874-47e329a708aa">
 
  <param ve-image 
        label="Henry Irving bookplate"
