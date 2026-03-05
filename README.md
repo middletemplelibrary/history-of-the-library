@@ -105,9 +105,6 @@ This is a comparative study of the history plays by Shakespeare and their source
        label="Henry Irving bookplate"
        url="https://github.com/user-attachments/assets/a0ac4e67-7b1f-453b-84ee-62ff029611fd">
 
-![ShakespereHolinshed](https://github.com/user-attachments/assets/9dd72f88-620a-4a19-87dd-b5b22ec03431)
-
-
 ## 1693-1694 No. 110 16 November 1694 receipt book
 
 and, <strong>The new natura brevium of the most reverend judge Mr Anthony Fitz-herbert. Corrected and revised by the author. : With a perfect table of the most materiall things contained therein, composed by William Rastall. Whereunto is added the authorities in law; and some other cases and notes collected by the translator out of the year-books and abridgements; never before printed therewith. Newly translated into English. London : Printed for W. Lee, M. Walbanck, D. Pakeman, and G. Bedell, M.DC.LII.</strong>
