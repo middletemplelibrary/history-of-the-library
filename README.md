@@ -181,6 +181,10 @@ The Library had an open hammer-beam roof, imitated to look like Westminster Hall
 Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. 
 
 <param ve-image 
+       label="The Old Middle Temple Library prior to the Second World War, MT19/PHO/5/2/9"
+       url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
+
+<param ve-image 
        label="The New Middle Temple Library"
        url="https://github.com/user-attachments/assets/fbb3b02b-8b1c-444d-af16-ca53ed203c97">
        
@@ -200,10 +204,6 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="Snow on the steps of the old Library, 1935"
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
-<param ve-image 
-       label="The Old Middle Temple Library prior to the Second World War, MT19/PHO/5/2/9"
-       url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
-
 ## Heating the Library, 1860
 
 The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
@@ -219,6 +219,13 @@ The new building didn’t appease all the members, with some finding the buildin
 ## Heating the Library, 1928
 
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
+
+<param ve-image 
+       label="Letter to the Undertreasurer from Benham and Sons, 1928"
+       url="https://github.com/user-attachments/assets/5891cd1a-18db-4612-af7d-637a52296e1e">
+
+![heating 1928](https://github.com/user-attachments/assets/5891cd1a-18db-4612-af7d-637a52296e1e)
+
 
 ## Wartime and the Library
 
