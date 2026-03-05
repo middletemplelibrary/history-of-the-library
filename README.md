@@ -23,7 +23,7 @@ This work is rich with information about the history of English law, lawyers and
 <br /><br />
 This volume was previously owned by Sir James Burrow (1701-1782), a law reporter and Master of the Crown Office. <em>Origines Judiciales</em> was also one of many books discovered to have had prints cut of it after Librarian John Hele discovered that some books had been stolen from the Library. Amongst the stolen books, two titles by Dugdale were also taken. 
 <br /><br />
-Read more about book thefts and the Library in this post by Middle Temple Archive: [Stealing and Sleuthing – The 1735 Book Theft at Middle Temple Library](https://www.middletemple.org.uk/archive-history/archive-month/october-2024-stealing-sleuthing-1735-book-theft-middle-temple-library).
+Read more about book thefts and the Library in this post by Middle Temple Archive: [Stealing and Sleuthing – The 1735 Book Theft at Middle Temple Library](https://www.middletemple.org.uk/archive-history/archive-month/october-2024-stealing-sleuthing-1735-book-theft-middle-temple-library)
 
 <param ve-image 
        label="Detail from Origines Juridiciales"
@@ -35,7 +35,7 @@ The Library was officially re-founded by Robert Ashley (1565-1641) when he beque
 <br /><br />
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>. He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 <br /><br />
-Ashley's death is mentioned in the [Minutes of Parliament](https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499) and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
+Ashley's death is mentioned in the Minutes of Parliament and the text of his will is reproduced in the entry for <strong>Parliament holden 28 Jan., 1641</strong>.
 
 <param ve-image 
        label="Portrait of Robert Ashley by Thomas Leigh, 1695"
