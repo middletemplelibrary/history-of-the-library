@@ -26,7 +26,7 @@ This volume was previously owned by Sir James Burrow (1701-1782), a law reporter
 Read more about book thefts and the Library in this post by Middle Temple Archive: [Stealing and Sleuthing – The 1735 Book Theft at Middle Temple Library](https://www.middletemple.org.uk/archive-history/archive-month/october-2024-stealing-sleuthing-1735-book-theft-middle-temple-library)
 
 <param ve-image 
-       label="Detail from Origines Juridiciales"
+       label="Detail from Origines Juridiciales, 1680"
        url="https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e">
 
 ## The Will of Robert Ashley, 1641
@@ -39,11 +39,11 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
 
 
 <param ve-image 
-       label="Portrait of Robert Ashley by Thomas Leigh, 1695"
+       label="Portrait of Robert Ashley by Thomas Leigh, 1656"
        url="https://github.com/user-attachments/assets/ef63ee56-6287-4470-b8bc-cd2e2d681608">
 
 <param ve-image 
-       label="Robert Ashley's will"
+       label="Robert Ashley's will, 1641"
        url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
 <param ve-iframe
@@ -60,31 +60,31 @@ In 1618 there were three comet sightings visible to the naked eye; for the first
 This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him.
 
 <param ve-image 
-       label="Detail from An astronomicall description of the late comet"
+       label="Detail from An astronomicall description of the late come0, 1618"
        url="https://github.com/user-attachments/assets/f5bc32fa-ecea-426c-ac1e-c711c15f5307">
 
 <param ve-image 
-       label="Detail from An astronomicall description of the late comet"
+       label="Detail from An astronomicall description of the late comet, 1618"
        url="https://github.com/user-attachments/assets/ba1ff228-f498-40d0-b373-5a1efeba3538">
 
 <param ve-image 
-       label="Detail from An astronomicall description of the late comet"
+       label="Detail from An astronomicall description of the late comet, 1618"
        url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
 
 ## 1693-1694 No. 110 16 November 1694 receipt book
 
-and, <strong>The new natura  brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>
+and, <strong>The new natura brevium of the most reverend judge Mr Anthony Fitz-herbert. Corrected and revised by the author. : With a perfect table of the most materiall things contained therein, composed by William Rastall. Whereunto is added the authorities in law; and some other cases and notes collected by the translator out of the year-books and abridgements; never before printed therewith. Newly translated into English. London : Printed for W. Lee, M. Walbanck, D. Pakeman, and G. Bedell, M.DC.LII.</strong>
 <br /><br />
 Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and   payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
  <br /><br />
 One such acquisition is The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42.
 
 <param ve-image 
-       label="1694 Receipt Book"
+       label="Receipt Book, 1694"
        url="https://github.com/user-attachments/assets/3ccfd20b-74f9-40de-b0c8-efb43c95fa00">
 
 <param ve-image 
-       label="The New Natura Brevium"
+       label="The new natura brevium of the most reverend judge Mr Anthony Fitz-herbert, 1652"
        url="https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2">
 
 ## Angliæ notitia
@@ -96,7 +96,7 @@ An important historical document, Angliæ notitia is Edward Chamberlayne’s bes
 This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
 
 <param ve-image 
-       label="Inscription in Angliæ Notitia"
+       label="Inscription in Angliæ Notitia, 1679"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
 ## Early Days of the Library
