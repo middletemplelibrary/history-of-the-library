@@ -48,7 +48,7 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
        url="https://github.com/user-attachments/assets/847475bc-ea60-4f36-8f4e-cb735328555d">
 
 <param ve-iframe
-       label="Minutes of Parliament of the Middle Temple, tr. and ed. by Charles Trice Martin with an inquiry into the origin and early history of the Inn by John Hutchinson: Vol. I, 1501-1603; Vol. II, 1603-1649; V. III, 1650-1703; and Index"
+       label="Minutes of Parliament of the Middle Temple, tr. and ed. by Charles Trice Martin with an inquiry into the origin and early history of the Inn by John Hutchinson: Vol. I, 1501-1603; Vol. II, 1603-1649; V. III, 1650-1703; and Index, accessed from Archive.org"
        src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
 
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
@@ -155,7 +155,7 @@ By the early nineteenth century, No. 2 Garden Court had become old and dilapidat
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
 
 <param ve-iframe
-       label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800"
+       label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
        src="https://ia802908.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2.zip&file=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_0132.jp2&id=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800&scale=14&rotate=0">
 
 <param ve-image 
