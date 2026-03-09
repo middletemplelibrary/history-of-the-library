@@ -51,6 +51,12 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
        label="Minutes of Parliament of the Middle Temple, tr. and ed. by Charles Trice Martin with an inquiry into the origin and early history of the Inn by John Hutchinson: Vol. I, 1501-1603; Vol. II, 1603-1649; V. III, 1650-1703; and Index"
        src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
 
+src="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft_jp2.zip&file=middletemplereco02hopwuoft_jp2/middletemplereco02hopwuoft_0499.jp2&id=middletemplereco02hopwuoft&scale=4&rotate=0">
+
+src="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft_jp2.zip&file=middletemplereco02hopwuoft_jp2/middletemplereco02hopwuoft_0500.jp2&id=middletemplereco02hopwuoft&scale=4&rotate=0">
+
+src="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft_jp2.zip&file=middletemplereco02hopwuoft_jp2/middletemplereco02hopwuoft_0501.jp2&id=middletemplereco02hopwuoft&scale=4&rotate=0">
+
 
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
 <strong>With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks. London :  Printed by Edward Griffin for Iohn Parker, 1618.</strong>
@@ -151,7 +157,7 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 
 
 ## New Parliament Chamber Library
-By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in <strong>Picturesque views, with an historical account of the Inns of court, in London and Westminster</strong>, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
+By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in <strong>[Picturesque views, with an historical account of the Inns of court, in London and Westminster](https://archive.org/details/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/page/n131/mode/2up?q=library)</strong>, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
 
