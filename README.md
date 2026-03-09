@@ -34,7 +34,7 @@ Read more about book thefts and the Library in this post by Middle Temple Archiv
 ## The Will of Robert Ashley, 1641
 The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of approximately 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
-In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the Minutes of Parliament the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
+In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the [Minutes of Parliament](https://archive.org/details/middletemplereco02hopwuoft/middletemplereco02hopwuoft/page/916/mode/2up) in the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
 <br /><br />
 Learn more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley.
 
@@ -50,13 +50,6 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
 <param ve-iframe
        label="Minutes of Parliament of the Middle Temple, tr. and ed. by Charles Trice Martin with an inquiry into the origin and early history of the Inn by John Hutchinson: Vol. I, 1501-1603; Vol. II, 1603-1649; V. III, 1650-1703; and Index"
        src="https://dn790002.ca.archive.org/0/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft.pdf#page=499">
-
-src="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft_jp2.zip&file=middletemplereco02hopwuoft_jp2/middletemplereco02hopwuoft_0499.jp2&id=middletemplereco02hopwuoft&scale=4&rotate=0">
-
-src="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft_jp2.zip&file=middletemplereco02hopwuoft_jp2/middletemplereco02hopwuoft_0500.jp2&id=middletemplereco02hopwuoft&scale=4&rotate=0">
-
-src="https://ia801609.us.archive.org/BookReader/BookReaderImages.php?zip=/35/items/middletemplereco02hopwuoft/middletemplereco02hopwuoft_jp2.zip&file=middletemplereco02hopwuoft_jp2/middletemplereco02hopwuoft_0501.jp2&id=middletemplereco02hopwuoft&scale=4&rotate=0">
-
 
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
 <strong>With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks. London :  Printed by Edward Griffin for Iohn Parker, 1618.</strong>
