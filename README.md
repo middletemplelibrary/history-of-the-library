@@ -230,6 +230,13 @@ Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 th
 <br /><br />
 In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
+<param ve-image 
+       label="New lighting in the Library, 1971, MT19/PHO/5/1"
+       url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
+
+![lighting1971](https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0)
+
+
 ## Drainage
 This report, written in 1900, identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
@@ -279,8 +286,15 @@ With wartime damage to the previous building in recent memory, Edward Maufe desi
 The Ashley Library, some members may notice, bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
 
 <param ve-image 
-       label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
+       label="Gallery view of the new Library, 1958 (MT/19/PHO/5/19/3)"
        url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
+
+<param ve-image 
+       label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
+       url="https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7">
+
+![1958newlibrary](https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7)
+
 
 ## The American Floor
 In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
