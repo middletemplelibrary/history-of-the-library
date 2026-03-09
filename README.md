@@ -170,7 +170,7 @@ In 1857, it was finally decided that a new building was required to encompass al
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
 <param ve-image 
-       label=Library Committee minutes discussing plans for the new Library’s location, 14 April 1857 (MT/9/LCM/1)"
+       label="Library Committee minutes discussing plans for the new Library’s location, 14 April 1857 (MT/9/LCM/1)"
        url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
 
 ## The Gothic Library
