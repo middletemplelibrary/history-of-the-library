@@ -77,6 +77,18 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
 <br /><br />
 This is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. Similar to Ashley, Petyt left his collection to Inner Temple with £150 for buying a place to preserve it, which resulted in the Library being enlarged to accommodate the bequest.
 
+<param ve-image 
+       label="Detail from Magick & astrology vindicated from those false aspersions and calumnies, 1651"
+       url="https://github.com/user-attachments/assets/66592b86-36a9-4d41-83a4-a7212ec97b2a">
+
+<param ve-image 
+       label="Detail from Magick & astrology vindicated from those false aspersions and calumnies, 1651""
+       url="https://github.com/user-attachments/assets/567aacb7-c896-45f4-b260-47d21610e955">
+
+![magick](https://github.com/user-attachments/assets/66592b86-36a9-4d41-83a4-a7212ec97b2a)
+
+![magick2](https://github.com/user-attachments/assets/567aacb7-c896-45f4-b260-47d21610e955)
+
 ## The Establish’d State of the Publick Offices under His Majesty King George II. 
 <strong>Containing true and exact lists of the Lords of his Majesty’s privy-council. London: Printed for Weaver Bickerton, in Devereux Court, without Temple Bar; and sold by J. Roberts in Warwick-Lane; A. Dodd, without Temple-Bar; E. Nutt, at the Royal-Exchange, T. Green, at Charing-Cross, J. Penn, in Westminster-Hall, and P. Meighan, at Gray’s-Inn Gate, 1718.</strong>
 This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
