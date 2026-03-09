@@ -232,11 +232,11 @@ In 1971, the Library updated its lighting once more, this time in the modern Lib
 
 <param ve-image 
        label="A letter from Strode & Co., 1899"
-       url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
+       url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
 
 <param ve-image 
        label="New lighting in the Library, 1971, MT19/PHO/5/1"
-       url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
+       url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
 
 ![lighting1971](https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0)
 ![strode1899](https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c)
