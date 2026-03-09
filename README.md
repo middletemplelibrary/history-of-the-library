@@ -11,7 +11,6 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ## The Library, an exhibition
-
 At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
 
 <param ve-image 
@@ -20,7 +19,6 @@ At Middle Temple there has been a library in some form since 1540 and this exhib
 
 
 ## Origines juridiciales...
-
 or <strong><em>Historical memorials of the English laws, courts of justice, forms of tryall, punishment in cases criminal, law writers, law books, grants and settlements of estates, degree of serjeant, Innes of Court and Chancery. Also a chronologie of the lord chancelors and keepers of the great Seal, lord treasurers, justices itinerant, justices of the Kings Bench and Common Pleas, barons of the Exchequer, masters of the rolls, Kings attorneys and sollicitors, & serjeants at law by William Dugdale Esq; Norroy King of Arms. London : Printed for Christop. Wilkinson, Tho. Dring, and Charles Harper, and are to be sold at their Shops in Fleetstreet, 1680.</em></strong>
 <br /><br />
 This work is rich with information about the history of English law, lawyers and legal institutions including the Inns of Court, amongst the many other subjects listed in the title, including perhaps the first published rules on English judges’ dress. Dugdale was an antiquary and a herald who visited cathedrals and major churches in London, the midlands, and the north, recording monuments, inscriptions and coats of arms. All editions of this work are filled with engravings and illustrations. He also reprints here (bottom left of page 197) the first mention of the Inn’s library from an anonymous account recorded in a Tudor manuscript (Cotton MS. Vit. C. IX. 35.). 
@@ -34,7 +32,6 @@ Read more about book thefts and the Library in this post by Middle Temple Archiv
        url="https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e">
 
 ## The Will of Robert Ashley, 1641
-
 The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of approximately 5,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the Minutes of Parliament the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a position that would be taken up for the first time by the executor of his will, William Cox.
@@ -56,7 +53,6 @@ Learn more about Robert Ashley in this article: [A Transcription and Translation
 
 
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
-
 <strong>With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks. London :  Printed by Edward Griffin for Iohn Parker, 1618.</strong>
 <br /><br />
 In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
@@ -94,7 +90,6 @@ This list of public offices under King George III is open on a page displaying M
        url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
 
 ## Shakspere's Holinshed : the chronicle and the historical plays compared by W. G. Boswell-Stone. London : Lawrence and Bullen, 1896. 
-
 This is a comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker. This work was donated to the Library by Master Cassels in 1965. 
 
 <param ve-image 
@@ -106,7 +101,6 @@ This is a comparative study of the history plays by Shakespeare and their source
        url="https://github.com/user-attachments/assets/a0ac4e67-7b1f-453b-84ee-62ff029611fd">
 
 ## 1693-1694 No. 110 16 November 1694 receipt book
-
 and, <strong>The new natura brevium of the most reverend judge Mr Anthony Fitz-herbert. Corrected and revised by the author. : With a perfect table of the most materiall things contained therein, composed by William Rastall. Whereunto is added the authorities in law; and some other cases and notes collected by the translator out of the year-books and abridgements; never before printed therewith. Newly translated into English. London : Printed for W. Lee, M. Walbanck, D. Pakeman, and G. Bedell, M.DC.LII.</strong>
 Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
  <br /><br />
@@ -121,7 +115,6 @@ One such acquisition is <strong>The new natura brevium of the most reverend judg
        url="https://github.com/user-attachments/assets/e1ffe86e-0f97-48b5-97e1-26770b4a8ec2">
 
 ## Angliæ notitia
-
 or, <strong><em>The present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679. </em></strong>
 <br /><br />
 An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, L'Estat Nouveau de la France.
@@ -136,7 +129,6 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
 
 
 ## Early Days of the Library
-
 Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
 <br /><br />
 NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
@@ -153,7 +145,6 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 
 
 ## New Parliament Chamber Library
-
 By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in Inns of Court, 1800, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
@@ -168,7 +159,6 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
        
 
 ## Library Committee minutes discussing plans for the new Library’s location, 14 April 1857
-
 In 1857, it was finally decided that a new building was required to encompass all the Library’s collections. A number of possible locations were deliberated. These Library Committee minutes show how unpopular the plan to build a new library on the fountain court site was. We can see that it provoked such a stir as to inspire a petition against it, signed by the Inn’s barrister members.
 <br /><br />
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
@@ -178,7 +168,6 @@ The final site was ultimately decided with the purchase of new land, known as Es
        url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
 
 ## The Gothic Library
-
 Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was opened on the 31st October 1861 by the Royal Bencher of the Inn, the Prince of Wales (later HRH Edward VI). It was 86 feet long, 42 feet in width and able to house up to 60,000 books; the Library was finally able to accommodate its growing collection. 
 <br /><br />
 The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
@@ -210,7 +199,6 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
 ## Heating
-
 The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 <br /><br />
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
@@ -228,18 +216,15 @@ In 1928, the Library decided to upgrade its heating. This quote sets out the cha
        url="https://github.com/user-attachments/assets/5891cd1a-18db-4612-af7d-637a52296e1e">
 
 ## Lighting
-
 The lighting of such a big space was also a cause for concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. 
 Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. This letter shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
 <br /><br />
 In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
 ## Drainage
-
 This report, written in 1900, identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
 ## Wartime and the Library
-
 The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. This letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
@@ -256,7 +241,6 @@ Though much was destroyed, astonishingly, much also survived. Look closely at th
 
 
 ## Postwar and towards a new Library
-
 Soon after the war, a temporary Library was built on the site where Nos. 2 and 3 Brick Court once stood (where the car park is situated today). It was opened 21st November 1946 by the Queen Mother and housed around 50,000 books. Despite war and damage, the Library continued its work, even accepting donations from other libraries, such as the Edward Sage donation lower down the page. 
 <br /><br />
 A new library would emerge after much discussion. Prior to the construction of the modern Library, there was the suggestion of a joint Library for the two Inns. However, both Inner and Middle decided against this and Edward Maufe was contracted to design a new Library for Middle Temple.
@@ -277,7 +261,6 @@ The temporary Library was demolished in 1958 to make way for the car park.
 
 
 ## The Ashley Building Library
-
 The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
  <br /><br />
 With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2017.
@@ -295,8 +278,6 @@ In 1954, the Library received a donation of 550 volumes of American law reports 
 <param ve-image 
        label="The American Library, 1952. MT/19/PHO/5/9/1 "
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
-
-
 
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
