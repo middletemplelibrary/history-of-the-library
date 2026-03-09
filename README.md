@@ -126,9 +126,6 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
        label="Inscription in Angliæ Notitia, 1679"
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
-
-
-
 ## Early Days of the Library
 Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
 <br /><br />
@@ -230,7 +227,9 @@ The Library suffered immense damage during the Second World War. The area was bo
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
 <br /><br />
-Though much was destroyed, astonishingly, much also survived. Look closely at the photo showing the damage at north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in 1565 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
+Though much was destroyed, astonishingly, much also survived. Look closely at the photo showing the damage at the north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in 1565 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
+<br /><br />
+Read more about the Gothic library in the this post by Middle Temple Archive: [The Lost Middle Temple Library – Life and Death of a Victorian Edifice](https://www.middletemple.org.uk/september-2023-lost-middle-temple-library-%E2%80%93-life-and-death-victorian-edifice).
 
 <param ve-image 
        label="Bomb damage to the old Library (looking north)"
