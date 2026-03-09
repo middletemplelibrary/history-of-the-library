@@ -265,7 +265,7 @@ The current Library’s construction was completed in 1958. Once again, the Libr
  <br /><br />
 With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2017.
 <br /><br />
-The Ashley Library, some members may notice bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
+The Ashley Library, some members may notice, bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
 
 <param ve-image 
        label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
@@ -300,12 +300,12 @@ It was started in 1700 and lists all major donations to the library covering 164
 
 
 <param ve-image 
-       label="Title page of first printed catalogue from 1700, Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower"
+       label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700"
        url="https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59">
 
 
 <param ve-image 
-       label="Inscription from Bibliotheca illustris Medii Templi Societatis"
+       label="Inscription from Bibliotheca illustris Medii Templi Societatis, 1700"
        url="https://github.com/user-attachments/assets/6a3c4c38-83cd-4a42-ab7a-848126a9607d">
 
 
