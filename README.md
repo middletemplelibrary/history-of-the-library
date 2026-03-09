@@ -156,7 +156,7 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
 
 <param ve-iframe
        label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
-       src="https://ia802908.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2.zip&file=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_0132.jp2&id=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800&scale=16&rotate=0">
+       src="https://ia802908.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2.zip&file=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_0132.jp2&id=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800&scale=15.5&rotate=0">
 
 <param ve-image 
        label="New Parliament Chamber Library Plan A"
