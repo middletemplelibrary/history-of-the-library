@@ -231,10 +231,15 @@ Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 th
 In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
 <param ve-image 
-       label="New lighting in the Library, 1971, MT19/PHO/5/1"
+       label="A letter from Strode & Co., 1899"
        url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
 
+<param ve-image 
+       label="New lighting in the Library, 1971, MT19/PHO/5/1"
+       url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
+
 ![lighting1971](https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0)
+![strode1899](https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c)
 
 
 ## Drainage
