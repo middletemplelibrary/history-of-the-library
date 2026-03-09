@@ -151,9 +151,13 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 
 
 ## New Parliament Chamber Library
-By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in Inns of Court, 1800, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
+By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in <strong>Picturesque views, with an historical account of the Inns of court, in London and Westminster</strong>, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
+
+<param ve-iframe
+       label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800"
+       src="https://ia802908.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2.zip&file=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_0132.jp2&id=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800&scale=16&rotate=0">
 
 <param ve-image 
        label="New Parliament Chamber Library Plan A"
