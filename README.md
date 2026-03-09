@@ -238,10 +238,6 @@ In 1971, the Library updated its lighting once more, this time in the modern Lib
        label="New lighting in the Library, 1971, MT19/PHO/5/1"
        url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
 
-![lighting1971](https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0)
-![strode1899](https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c)
-
-
 ## Drainage
 This report, written in 1900, identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
@@ -301,12 +297,6 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
 <param ve-image 
        label="First floor of the Library, 1959 (MT/19/PHO/5/20)"
        url="https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99">
-
-![1958newlibrary](https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7)
-
-![1959library](https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99)
-
-
 
 ## The American Floor
 In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
