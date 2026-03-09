@@ -287,13 +287,20 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
 
 <param ve-image 
        label="Gallery view of the new Library, 1958 (MT/19/PHO/5/19/3)"
-       url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
+       url="https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7">
 
 <param ve-image 
        label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
-       url="https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7">
+       url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
+
+<param ve-image 
+       label="First floor of the Library, 1959 (MT/19/PHO/5/20)"
+       url="https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99">
 
 ![1958newlibrary](https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7)
+
+![1959library](https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99)
+
 
 
 ## The American Floor
