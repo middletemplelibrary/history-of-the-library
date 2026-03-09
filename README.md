@@ -245,9 +245,9 @@ Soon after the war, a temporary Library was built on the site where Nos. 2 and 3
 <br /><br />
 A new library would emerge after much discussion. Prior to the construction of the modern Library, there was the suggestion of a joint Library for the two Inns. However, both Inner and Middle decided against this and Edward Maufe was contracted to design a new Library for Middle Temple.
 <br /><br />
-Originally, he designed a six-storey structure to be built on top of the site of the Gothic Library (which would be demolished), however it was agreed this would cost the Inn too much money. Maufe’s second design culminated in the Library that stands on Middle Temple Lane today. 
+Originally, he designed a six-storey structure to be built on top of the site of the Gothic Library (which would be demolished), however it was agreed this would cost the Inn too much money. Maufe’s second design culminated in the Library that stands on Middle Temple Lane today. As for the temporary Library, it was demolished in 1958 to make way for the car park.
 <br /><br />
-The temporary Library was demolished in 1958 to make way for the car park.
+Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
 
 <param ve-image 
