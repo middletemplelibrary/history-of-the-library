@@ -246,7 +246,7 @@ The Library suffered immense damage during the Second World War. The area was bo
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
 <br /><br />
-Though much was destroyed, astonishingly, much also survived. Look closely at the photo showing the damage at the north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in 1565 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
+Though much was destroyed, astonishingly, much also survived. Look closely at the photo showing the damage at the north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in 1656 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
 <br /><br />
 Read more about the Gothic library in the this post by Middle Temple Archive: [The Lost Middle Temple Library – Life and Death of a Victorian Edifice](https://www.middletemple.org.uk/september-2023-lost-middle-temple-library-%E2%80%93-life-and-death-victorian-edifice).
 
