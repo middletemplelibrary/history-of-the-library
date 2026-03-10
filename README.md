@@ -314,22 +314,21 @@ The first Library catalogue was produced by William Cox, executor of Ashley’s 
 It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
 <param ve-image 
-       label=">Title page of Liber benefactorum 1641-1711, 1826-84."
+       label=">Title page of Liber benefactorum 1641-1711, 1826-84"
        url="https://github.com/user-attachments/assets/f5013be8-e343-4611-9f15-fa3b42e2891a">
 
 <param ve-image 
-       label="First page of Liber benefactorum 1641-1711, 1826-84."
+       label="First page of Liber benefactorum 1641-1711, 1826-84"
        url="https://github.com/user-attachments/assets/aa175053-6acd-45b2-900d-ba3dafef7cf7">
 
 <param ve-image 
-       label="Page listing donations in 1826 in Liber benefactorum 1641-1711, 1826-84."
+       label="Page listing donations in 1826 in Liber benefactorum 1641-1711, 1826-84"
        url="https://github.com/user-attachments/assets/23507615-acc0-40cc-a503-d4c8e7cd57b9">
 
 
 <param ve-image 
        label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700"
        url="https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59">
-
 
 <param ve-image 
        label="Inscription from Bibliotheca illustris Medii Templi Societatis, 1700"
