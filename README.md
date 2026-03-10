@@ -181,7 +181,7 @@ Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was open
 <br /><br />
 The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
 <br /><br />
-Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. However, though it was a vast improvent on what came before, this Library came with a whole new set of problems. 
+Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. However, though it was a vast improvement on what came before, this Library came with a whole new set of problems. 
 
 <param ve-image 
        label="The Old Middle Temple Library prior to the Second World War, MT19/PHO/5/2/9"
