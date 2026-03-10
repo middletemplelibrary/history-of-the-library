@@ -253,13 +253,6 @@ A report written in 1900 identifies ‘partly choked’ drains and bad joints in
        label="Report, 1900"
        url="https://github.com/user-attachments/assets/84ae637d-4792-4af1-8b48-2444725fae8b">
 
-![drainage 19001](https://github.com/user-attachments/assets/d1466c8e-ab39-44cf-a9a9-8ace1cba2874)
-
-![drainage 19002](https://github.com/user-attachments/assets/1a3ff62a-94ed-4a0b-ab09-9ff614d17b5c)
-
-![drainage 19003](https://github.com/user-attachments/assets/84ae637d-4792-4af1-8b48-2444725fae8b)
-
-
 ## Wartime and the Library
 The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. This letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
 <br /><br />
