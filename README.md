@@ -243,9 +243,6 @@ In 1971, the Library updated its lighting once more, this time in the modern Lib
        label="New lighting in the Library, 1971, MT19/PHO/5/1"
        url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
 
-![petition for lighting 1](https://github.com/user-attachments/assets/2eea9ab2-8282-490c-b6c7-1146d86b50b2)
-
-
 ## Drainage
 A report written in 1900 identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
