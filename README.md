@@ -269,9 +269,6 @@ Though much was destroyed, astonishingly, much also survived. Look closely at th
 <br /><br />
 Read more about the Gothic library in the this post by Middle Temple Archive: [The Lost Middle Temple Library – Life and Death of a Victorian Edifice](https://www.middletemple.org.uk/september-2023-lost-middle-temple-library-%E2%80%93-life-and-death-victorian-edifice).
 
-![woodwardletter](https://github.com/user-attachments/assets/46b3230f-9677-4408-8a6b-a2ab7d482e8c)
-
-
 <param ve-image 
        label="Bomb damage to the old Library (looking north)"
        url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
