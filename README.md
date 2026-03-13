@@ -290,11 +290,12 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
-![temporary library letter](https://github.com/user-attachments/assets/c2548898-561b-48e3-9709-f4654ea5f86e)
+![temporary library letter](https://github.com/user-attachments/assets/8f8bc18d-6ba6-41fb-9f75-747af8518cf9)
+
 
 <param ve-image 
        label="Temporary Library at Brick Court letter, 1946"
-       url="https://github.com/user-attachments/assets/c2548898-561b-48e3-9709-f4654ea5f86e">
+       url="https://github.com/user-attachments/assets/8f8bc18d-6ba6-41fb-9f75-747af8518cf9">
 
 
 <param ve-image 
