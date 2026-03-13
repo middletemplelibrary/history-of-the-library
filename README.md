@@ -219,9 +219,9 @@ Though the new Library was a vast improvement on what came before, this Library 
        url="https://github.com/user-attachments/assets/aff1b8c0-a96c-4e29-a247-50972b9be560">
 
 ## Heating
-We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
+To combat the cold, a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. The grates covering thse pipes can be seen in the photos of the interior of the Library (scroll back up to pictures of the Gothic Library). Whilst this relatively new invention was modern for its time, complaints continued. 
 <br /><br />
-In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
+In 1928, the Library decided to upgrade its heating. A quote from Benham and Sons sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
 
 <param ve-image 
        label="Letter to Middle Temple Library from Patent Hot-water Apparatus Manufactory, 1860"
@@ -363,7 +363,6 @@ It was started in 1700 and lists all major donations to the library covering 164
 <param ve-image 
        label="Page listing donations in 1826 in Liber benefactorum 1641-1711, 1826-84"
        url="https://github.com/user-attachments/assets/23507615-acc0-40cc-a503-d4c8e7cd57b9">
-
 
 <param ve-image 
        label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700"
