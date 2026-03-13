@@ -290,9 +290,6 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
-
-![joint lib](https://github.com/user-attachments/assets/f787679b-36f9-4501-82e1-f505261c4e98)
-
 <param ve-image 
        label="Letter from Inner Temple regarding a joiny library, 1944"
        url="https://github.com/user-attachments/assets/f787679b-36f9-4501-82e1-f505261c4e98">
@@ -347,7 +344,7 @@ The first Library catalogue was produced by William Cox, executor of Ashley’s 
 It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
 <param ve-image 
-       label=">Title page of Liber benefactorum 1641-1711, 1826-84"
+       label="Title page of Liber benefactorum 1641-1711, 1826-84"
        url="https://github.com/user-attachments/assets/f5013be8-e343-4611-9f15-fa3b42e2891a">
 
 <param ve-image 
