@@ -339,7 +339,7 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
        url="https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7">
 
 <param ve-image 
-       label="Entrance to Middle Temple Library, 1958 (MT/19/PHO/5/19/6)"
+       label="Entrance to Middle Temple Library, showing the coats of arms of the three Treasurers involved in the building of the new library, 1958 (MT/19/PHO/5/19/6)"
        url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
 
 <param ve-image 
