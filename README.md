@@ -98,7 +98,6 @@ This list of public offices under King George III is open on a page displaying M
        url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
 
 ## Shakspere's Holinshed : the chronicle and the historical plays compared by W. G. Boswell-Stone. London : Lawrence and Bullen, 1896. 
-<br /><br />
 This is a comparative study of the history plays by Shakespeare and their source material, Holinshed’s Chronicles. The bookplate suggests this work once belonged to the Library of Victorian actor Henry Irving. Shakespeare is not the only connection between Irving and the Inns. Allegedly Irving was inspiration for the titular character in a novel written by his business manager, and Inner Temple member, Bram Stoker. This work was donated to the Library by Master Cassels in 1965. 
 
 <param ve-image 
@@ -152,7 +151,7 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 
 
 ## New Parliament Chamber Library
-By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland in <strong>[Picturesque views, with an historical account of the Inns of court, in London and Westminster](https://archive.org/details/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/page/n131/mode/2up?q=library)</strong>, p.101 commented of the books’ “extreme dirtiness” and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
+By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland's 1800 work <strong>[Picturesque views, with an historical account of the Inns of court, in London and Westminster](https://archive.org/details/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/page/n131/mode/2up?q=library)</strong>, describes the “extreme dirtiness” of the books and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
 
@@ -291,6 +290,12 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
+![temporary library letter](https://github.com/user-attachments/assets/c2548898-561b-48e3-9709-f4654ea5f86e)
+
+<param ve-image 
+       label="Temporary Library at Brick Court letter, 1946"
+       url="https://github.com/user-attachments/assets/c2548898-561b-48e3-9709-f4654ea5f86e">
+
 
 <param ve-image 
        label="Press cutting regarding the temporary library. MT 19/PHO/5/16"
@@ -350,7 +355,7 @@ It was started in 1700 and lists all major donations to the library covering 164
 
 
 <param ve-image 
-       label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700"
+       label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700">
        url="https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59">
 
 <param ve-image 
