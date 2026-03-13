@@ -340,7 +340,7 @@ In 1954, the Library received a donation of 550 volumes of American law reports 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
 and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
 The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
- <br /><br />
+<br /><br />
 It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
 <param ve-image 
@@ -357,7 +357,7 @@ It was started in 1700 and lists all major donations to the library covering 164
 
 
 <param ve-image 
-       label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700">
+       label="Title page of first printed catalogue Bibliotheca illustris Medii Templi Societatis, commissioned by Sir Bartholomew Shower, 1700"
        url="https://github.com/user-attachments/assets/c6223b75-1f59-45e7-b911-f8b5f9ce2e59">
 
 <param ve-image 
