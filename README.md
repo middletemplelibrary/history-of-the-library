@@ -210,10 +210,6 @@ The Library had an open hammer-beam roof, imitated to look like Westminster Hall
 
 Though the new Library was a vast improvement on what came before, this Library came with a whole new set of problems. The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. But discomfort wasn't the only issue. There was also the issue of growing collections and a need for more space, leading to discussions of expansion.
 
-![memorandum for library extension 1](https://github.com/user-attachments/assets/d86d5fa5-998d-48da-8d3e-4308bee1fb26)
-
-![memorandum for library extension 2](https://github.com/user-attachments/assets/aff1b8c0-a96c-4e29-a247-50972b9be560)
-
 <param ve-image 
        label="Memorandum by the Libarian concerning possible extension of accommodation for the library, 1933 (MT/9/LIB/69)"
        url="https://github.com/user-attachments/assets/d86d5fa5-998d-48da-8d3e-4308bee1fb26">
