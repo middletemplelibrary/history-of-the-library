@@ -90,11 +90,11 @@ This is the only known work by hermetic philosopher Hardick Warren. The seventee
 This list of public offices under King George III is open on a page displaying Masters of the Bench at Inner Temple, Lincoln’s Inn and Middle Temple, as well as the King’s Bench. This work is bound into a volume with seven other miscellaneous works from the library of amateur historian Edward Sage, who was a Stoke Newington local. Between 1950 and 1951, despite being housed in temporary accommodation, Middle Temple Library accepted numerous items from the Edward Sage bequest from Stoke Newington Library. This particular work not only provides a snapshot of the Inn’s Benchers, but the imprint also paints a vivid picture of bookselling in 1718. An ideal item for Middle Temple’s Library collection.
 
 <param ve-image 
-       label="Stoke Newington Public Library Sage donation"
+       label="Stoke Newington Public Library Sage bequest bookplate, 1906"
        url="https://github.com/user-attachments/assets/58a9b689-723d-49b3-8c2a-61c3eac142d6">
 
 <param ve-image 
-       label="1718 Middle Temple Masters of the Bench"
+       label="p.93 of The Establish’d State of the Publick Offices under His Majesty King George II, 1718"
        url="https://github.com/user-attachments/assets/03ced711-d81d-4e1a-8f1a-7f282e77aad9">
 
 ## Shakspere's Holinshed : the chronicle and the historical plays compared by W. G. Boswell-Stone. London : Lawrence and Bullen, 1896. 
@@ -116,7 +116,7 @@ Spanning several centuries, the receipt books cover the expenditure of the Inn, 
 One such acquisition is <strong>The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42. This text can be seen listed in the receipt book next to the red arrow.
 
 <param ve-image 
-       label="Receipt Book, 1694"
+       label="Receipt Book, 1693-1694"
        url="https://github.com/user-attachments/assets/3ccfd20b-74f9-40de-b0c8-efb43c95fa00">
 
 <param ve-image 
@@ -174,7 +174,7 @@ In 1857, it was finally decided that a new building was required to encompass al
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
 <param ve-image 
-       label="Library Committee minutes discussing plans for the new Library’s location, 14 April 1857, MT/9/LCM/1"
+       label="Library Committee minutes discussing plans for the new Library’s location, 14 April 1857 (MT/9/LCM/1)"
        url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
 
 ## The Gothic Library
@@ -185,7 +185,7 @@ The Library had an open hammer-beam roof, imitated to look like Westminster Hall
 Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. However, though it was a vast improvement on what came before, this Library came with a whole new set of problems. 
 
 <param ve-image 
-       label="The Old Middle Temple Library prior to the Second World War, MT19/PHO/5/2/9"
+       label="The Old Middle Temple Library prior to the Second World War (MT19/PHO/5/2/9)"
        url="https://github.com/user-attachments/assets/bb8b0660-1998-4e04-b7ee-7869c45a6cb1">
 
 <param ve-image 
@@ -237,11 +237,11 @@ In 1971, the Library updated its lighting once more, this time in the modern Lib
        url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
 
 <param ve-image 
-       label="Petition from barristers and students, 1871, MT/1/PPA/3731a"
+       label="Petition from barristers and students, 1871 (MT/1/PPA/3731a)"
        url="https://github.com/user-attachments/assets/2eea9ab2-8282-490c-b6c7-1146d86b50b2">
 
 <param ve-image 
-       label="New lighting in the Library, 1971, MT19/PHO/5/1"
+       label="New lighting in the Library, 1971 (MT19/PHO/5/1)"
        url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
 
 ## Drainage
@@ -273,7 +273,7 @@ Read more about the Gothic library in the this post by Middle Temple Archive: [T
        url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
 
 <param ve-image 
-       label="Letter from Librarian to Miss Woodward, MT1/WAR/35"
+       label="Letter from Librarian to Miss Woodward (MT1/WAR/35)"
        url="https://github.com/user-attachments/assets/46b3230f-9677-4408-8a6b-a2ab7d482e8c">
 
 <param ve-image 
@@ -290,8 +290,12 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
-![temporary library letter](https://github.com/user-attachments/assets/8f8bc18d-6ba6-41fb-9f75-747af8518cf9)
 
+![joint lib](https://github.com/user-attachments/assets/f787679b-36f9-4501-82e1-f505261c4e98)
+
+<param ve-image 
+       label="Letter from Inner Temple regarding a joiny library, 1944"
+       url="https://github.com/user-attachments/assets/f787679b-36f9-4501-82e1-f505261c4e98">
 
 <param ve-image 
        label="Temporary Library at Brick Court letter, 1946"
@@ -299,11 +303,11 @@ Read more about how the Inn was rebuilt after the destruction of the Second Worl
 
 
 <param ve-image 
-       label="Press cutting regarding the temporary library. MT 19/PHO/5/16"
+       label="Press cutting regarding the temporary library (MT 19/PHO/5/16)"
        url="https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092">
 
 <param ve-image 
-       label="The temporary library"
+       label="The temporary library at 2 and 3 Brick Court, November 1946 (MT/9/LIB/71)"
        url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
 
 
@@ -332,7 +336,7 @@ In 1954, the Library received a donation of 550 volumes of American law reports 
 
 
 <param ve-image 
-       label="The American Library, 1958. MT 19/PHO/5/9/1"
+       label="The American Library, 1958 (MT 19/PHO/5/9/1)"
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
 
 
