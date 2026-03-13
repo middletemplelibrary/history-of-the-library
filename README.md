@@ -247,6 +247,13 @@ In 1971 too the Library updated its lighting, this time in the modern building. 
        url="https://github.com/user-attachments/assets/2eea9ab2-8282-490c-b6c7-1146d86b50b2">
 
 <param ve-image 
+       label="Plan of Middle Temple Library showing two different proposals of lighting the building with electricity, c.1894 (MT/6/RBW/206)"
+       url="https://github.com/user-attachments/assets/f2ce9a70-3126-448b-8f51-04b2307a8881">
+
+![plan 1](https://github.com/user-attachments/assets/f2ce9a70-3126-448b-8f51-04b2307a8881)
+
+
+<param ve-image 
        label="A letter from Strode & Co., 1899"
        url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
 
