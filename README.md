@@ -236,22 +236,30 @@ In 1928, the Library decided to upgrade its heating. A quote from Benham and Son
        url="https://github.com/user-attachments/assets/5891cd1a-18db-4612-af7d-637a52296e1e">
 
 ## Lighting
-The lighting of such a big space was also a cause for concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. <br /><br />
-A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
+Lighting would always been an issue. Back when the Library was in Parliament Chamber, lit by oil lamps. There was a petition for lunch in hall outside of term time, and added into the petition was also the request of opening the Library during the evening and lighting it. 
 <br /><br />
-Lighting was an issue before this, back when the Library was in Parliament Chamber, lit by oil lamps. There was a petition for lunch in hall outside of term time, added into the petition was also the request of opening the Library during the evening and lighting it. In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
-
-<param ve-image 
-       label="A letter from Strode & Co., 1899"
-       url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
+The Victorian library was big space, so lighting here was again a concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
+<br /><br />
+In 1971 too the Library updated its lighting, this time in the modern building. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
 <param ve-image 
        label="Petition from barristers and students, 1871 (MT/1/PPA/3731a)"
        url="https://github.com/user-attachments/assets/2eea9ab2-8282-490c-b6c7-1146d86b50b2">
 
 <param ve-image 
+       label="A letter from Strode & Co., 1899"
+       url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
+
+<param ve-image 
        label="New lighting in the Library, 1971 (MT19/PHO/5/1)"
        url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
+
+<param ve-image 
+       label="Lighting News, October 1971"
+       url="https://github.com/user-attachments/assets/a2e7c5b0-cb68-4c59-aee1-af3c810dc44b">
+
+![lighting news](https://github.com/user-attachments/assets/a2e7c5b0-cb68-4c59-aee1-af3c810dc44b)
+
 
 ## Drainage
 A report written in 1900 identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
