@@ -215,11 +215,11 @@ Though the new Library was a vast improvement on what came before, this Library 
 ![memorandum for library extension 2](https://github.com/user-attachments/assets/aff1b8c0-a96c-4e29-a247-50972b9be560)
 
 <param ve-image 
-       label="Memorandum concerning expansion of library, March 1933 (MT/9/LIB/69)"
+       label="Memorandum by the Libarian concerning possible extension of accommodation for the library, 1933 (MT/9/LIB/69)"
        url="https://github.com/user-attachments/assets/d86d5fa5-998d-48da-8d3e-4308bee1fb26">
 
 <param ve-image 
-       label="Memorandum concerning expansion of library, March 1933 (MT/9/LIB/69)"
+       label="Memorandum by the Libarian concerning possible extension of accommodation for the library, 1933 (MT/9/LIB/69)"
        url="https://github.com/user-attachments/assets/aff1b8c0-a96c-4e29-a247-50972b9be560">
 
 ## Heating
