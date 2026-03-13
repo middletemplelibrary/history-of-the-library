@@ -180,9 +180,7 @@ The final site was ultimately decided with the purchase of new land, known as Es
 ## The Gothic Library
 Designed in the Neo-Gothic style by architect H.R. Abraham, the Library was opened on the 31st October 1861 by the Royal Bencher of the Inn, the Prince of Wales (later HRH Edward VI). It was 86 feet long, 42 feet in width and able to house up to 60,000 books; the Library was finally able to accommodate its growing collection. 
 <br /><br />
-The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. 
-<br /><br />
-Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. However, though it was a vast improvement on what came before, this Library came with a whole new set of problems. 
+The Library had an open hammer-beam roof, imitated to look like Westminster Hall. A ten foot oriel window graced the south side of the building, close to the Thames. It was said that the Library used to be so close to the Thames that the Library porters could open the window and throw breadcrumbs out to feed the ducks. Although this of course changed with the extension of the embankment with the first of the Thames Embankment Acts in 1862. Heraldic glass decoration adorned other windows throughout the Library. You can still see some remaining shards of the stained glass in the cabinet before you enter the first floor of the Library today. 
 
 <param ve-image 
        label="The Old Middle Temple Library prior to the Second World War (MT19/PHO/5/2/9)"
@@ -208,8 +206,24 @@ Heraldic glass decoration adorned other windows throughout the Library. You can 
        label="Snow on the steps of the old Library, 1935"
        url="https://github.com/user-attachments/assets/864cb4ad-814d-41bb-b667-6106b39bd9db">
 
+## New Library, new problems
+
+Though the new Library was a vast improvement on what came before, this Library came with a whole new set of problems. The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. But discomfort wasn't the only issue. There was also the issue of growing collections and a need for more space, leading to discussions of expansion.
+
+![memorandum for library extension 1](https://github.com/user-attachments/assets/d86d5fa5-998d-48da-8d3e-4308bee1fb26)
+
+![memorandum for library extension 2](https://github.com/user-attachments/assets/aff1b8c0-a96c-4e29-a247-50972b9be560)
+
+<param ve-image 
+       label="Memorandum concerning expansion of library, March 1933 (MT/9/LIB/69)"
+       url="https://github.com/user-attachments/assets/d86d5fa5-998d-48da-8d3e-4308bee1fb26">
+
+<param ve-image 
+       label="Memorandum concerning expansion of library, March 1933 (MT/9/LIB/69)"
+       url="https://github.com/user-attachments/assets/aff1b8c0-a96c-4e29-a247-50972b9be560">
+
 ## Heating
-The new building didn’t appease all the members, with some finding the building ‘grotesque’ and others having concern for the oftentimes draughty premises and poor lighting. The Library sought to alleviate these discomforts over the years. We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
+We can see from this quote that a brick furnace was to be fixed in the basement in the tower of the building, alongside over 2,500 feet of pipes and a hot water apparatus to heat the Library. We can see these pipes, covered by iron grates, in the photos of the interior of the Library. Whilst this relatively new invention was modern for its time, complaints continued. 
 <br /><br />
 In 1928, the Library decided to upgrade its heating. This quote sets out the changes that were made. The existing high pressure hot water heating installation was converted into an accelerated low pressure hot water system by replacing the furnace with a modern cast iron sectional heating boiler. The original pipes would be used to distribute the water by an electrically driven circulator and 6 36-inch radiators would be fixed throughout the Library, against bookcases and windows. This cost the Library between £221-385.
 
@@ -229,8 +243,7 @@ In 1928, the Library decided to upgrade its heating. This quote sets out the cha
 The lighting of such a big space was also a cause for concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. <br /><br />
 A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
 <br /><br />
-Lighting was an issue even before this, back when the Library was in Parliament Chamber, lit by oil lamps. There was a petition for lunch in hall outside of term time, added into the petition was also the request of opening the Library during the evening and lighting it. 
-In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
+Lighting was an issue before this, back when the Library was in Parliament Chamber, lit by oil lamps. There was a petition for lunch in hall outside of term time, added into the petition was also the request of opening the Library during the evening and lighting it. In 1971, the Library updated its lighting once more, this time in the modern Library. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
 <param ve-image 
        label="A letter from Strode & Co., 1899"
