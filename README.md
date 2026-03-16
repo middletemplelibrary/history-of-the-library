@@ -328,11 +328,8 @@ Read more about how the Inn was rebuilt after the destruction of the Second Worl
 
 
 <param ve-image 
-       label="Extract of aerial photo which shows the temporary library, the site of the Victorian library and the site of the futuer library (MT/19/PHO/14/6)"
+       label="Extract of aerial photo which shows the temporary library, the site of the Victorian library and the site of the future library (MT/19/PHO/14/6)"
        url="https://github.com/user-attachments/assets/d12f3c37-a335-42b5-882c-417703c26b35">
-
-![aerial ](https://github.com/user-attachments/assets/d12f3c37-a335-42b5-882c-417703c26b35)
-
 
 ## The Ashley Building Library
 The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
