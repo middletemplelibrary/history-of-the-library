@@ -308,8 +308,9 @@ Originally, he designed a six-storey structure to be built on top of the site of
 <br /><br />
 Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
+
 <param ve-image 
-       label="Letter from Inner Temple regarding a joiny library, 1944"
+       label="Letter from Inner Temple regarding a joint library, 1944"
        url="https://github.com/user-attachments/assets/f787679b-36f9-4501-82e1-f505261c4e98">
 
 <param ve-image 
@@ -325,6 +326,12 @@ Read more about how the Inn was rebuilt after the destruction of the Second Worl
        label="The temporary library at 2 and 3 Brick Court, November 1946 (MT/9/LIB/71)"
        url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
 
+
+<param ve-image 
+       label="Extract of aerial photo which shows the temporary library, the site of the Victorian library and the site of the futuer library (MT/19/PHO/14/6)"
+       url="https://github.com/user-attachments/assets/834af363-567d-48f4-a4ec-a4cf3b152472">
+
+![2024 06 12](https://github.com/user-attachments/assets/834af363-567d-48f4-a4ec-a4cf3b152472)
 
 
 ## The Ashley Building Library
