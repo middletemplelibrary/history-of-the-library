@@ -351,12 +351,14 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
        url="https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99">
 
 ## The American Floor
-In 1954, the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government. The Library, to this day, houses the largest US law collection outside of the US. Middle Temple has retained a close connection with the US since the sixteenth century which you can discover more about in our next exhibition about the Declaration of Independence.
-
+Middle Temple Library has been said to house the largest US law collection outside of the US forming part of the Inn's close connection with the US since the sixteenth century. Donations to the US collection go back as far as 1910, but it was in 1954 when the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with a formidable collection law reports. In 2005, the Amicus and Amnesty International donated materials that form the Capital Punishment Collection. Today the American floor also houses our European collection and international materials. 
+<br /><br />
+Later this year you can discover more about the Inn's American connection in the next exhibition about the Declaration of Independance. 
 
 <param ve-image 
        label="The American Library, 1958 (MT 19/PHO/5/9/1)"
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
+
 
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
