@@ -377,17 +377,6 @@ Later this year you can discover more about the Inn's American connection in the
        label="US law reports, the Federal Reporter"
        url="https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8">
 
-<param ve-image 
-       label="European Court Reports"
-       url="https://github.com/user-attachments/assets/11591c97-8f96-4edb-a790-2da04e55f1f4">
-
-<param ve-image 
-       label="Annual Digest and Reports of International Public Law Cases"
-       url="https://github.com/user-attachments/assets/4c569b78-787c-44ba-85b0-afd7fe5127e4">
-
-![redrep](https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8)
-
-
 ## From Catalogue Volumes to Online Searches
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
