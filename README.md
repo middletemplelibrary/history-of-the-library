@@ -350,16 +350,51 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
        label="First floor of the Library, 1959 (MT/19/PHO/5/20)"
        url="https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99">
 
+## The Gallery and its Globes
+
 ## The American Floor
-Middle Temple Library has been said to house the largest US law collection outside of the US forming part of the Inn's close connection with the US since the sixteenth century. Donations to the US collection go back as far as 1910, but it was in 1954 when the Library received a donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with a formidable collection law reports. In 2005, the Amicus and Amnesty International donated materials that form the Capital Punishment Collection. Today the American floor also houses our European collection and international materials. 
+Middle Temple Library has been said to house the largest US law collection outside of the US. Donations to the US collection go back as far as 1910, but the largest donations came in 1929 from the Carnegie Foundation, which donated 2000 volumes, and in 1954 the Library recieved donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. 
 <br /><br />
-Later this year you can discover more about the Inn's American connection in the next exhibition about the Declaration of Independance. 
+From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with a formidable collection of law reports. In 2005, Amicus and Amnesty International donated materials that form the Capital Punishment Collection. Today the American floor also houses our European collection and international materials and is used for events and training. 
+<br /><br />
+Later this year you can discover more about the Inn's American connection, which goes back to the sixteenth century, in the next exhibition about the Declaration of Independance. 
 
 <param ve-image 
        label="The American Library, 1958 (MT 19/PHO/5/9/1)"
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
 
+<param ve-image 
+       label="The American Library floor today"
+       url="https://github.com/user-attachments/assets/1ad2689c-1aa6-4d30-bca9-edf93c8cb23d">
 
+<param ve-image 
+       label="Commemorating the donations of materials by Carnegie Foundation, 1929"
+       url="https://github.com/user-attachments/assets/5ea8c78d-caac-402b-9484-1061bbd6f0c1">
+
+<param ve-image 
+       label="US law reports, the Federal Reporter"
+       url="https://github.com/user-attachments/assets/56d69e45-3c6a-494e-877a-e63ec026c561">
+
+<param ve-image 
+       label="European Court Reports"
+       url="https://github.com/user-attachments/assets/11591c97-8f96-4edb-a790-2da04e55f1f4">
+
+<param ve-image 
+       label="Annual Digest and Reports of International Public Law Cases"
+       url="https://github.com/user-attachments/assets/4c569b78-787c-44ba-85b0-afd7fe5127e4">
+
+![3rdfloor](https://github.com/user-attachments/assets/1ad2689c-1aa6-4d30-bca9-edf93c8cb23d)
+
+![carnegie](https://github.com/user-attachments/assets/5ea8c78d-caac-402b-9484-1061bbd6f0c1)
+
+![redrep](https://github.com/user-attachments/assets/56d69e45-3c6a-494e-877a-e63ec026c561)
+
+  ![ecrrep](https://github.com/user-attachments/assets/11591c97-8f96-4edb-a790-2da04e55f1f4)
+
+
+![ilr](https://github.com/user-attachments/assets/4c569b78-787c-44ba-85b0-afd7fe5127e4)
+
+## From Catalogue Volumes to Online Searches
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
 and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
