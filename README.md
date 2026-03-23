@@ -26,6 +26,8 @@ This work is rich with information about the history of English law, lawyers and
 This volume was previously owned by Sir James Burrow (1701-1782), a law reporter and Master of the Crown Office. <em>Origines Judiciales</em> was also one of many books discovered to have had prints cut out of it when Librarian John Hele discovered that some books had been stolen from the Library. Amongst the stolen books, two titles by Dugdale were also taken. 
 <br /><br />
 Read more about book thefts and the Library in this post by Middle Temple Archive: [Stealing and Sleuthing – The 1735 Book Theft at Middle Temple Library](https://www.middletemple.org.uk/archive-history/archive-month/october-2024-stealing-sleuthing-1735-book-theft-middle-temple-library)
+<br /><br />
+Read more about [Origines juridiciales](https://middletemplelibrary.wordpress.com/tag/william-dugdale/) on the Library's blog. 
 
 <param ve-image 
        label="Detail from Origines Juridiciales, 1680"
