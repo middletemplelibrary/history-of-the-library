@@ -352,12 +352,14 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
 
 ## The Gallery and its Globes
 
-## The American Floor
-Middle Temple Library has been said to house the largest US law collection outside of the US. Donations to the US collection go back as far as 1910, but the largest donations came in 1929 from the Carnegie Foundation, which donated 2000 volumes, and in 1954 the Library recieved donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. 
+## The "American Floor"
+Middle Temple Library has been said to house the largest US law collection outside of the US. Donations to the US collection go back as far as 1910; in 1929 the Library recieved a donation of 2000 volumes from the Carnegie Foundation, and in 1954 the Library recieved donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. 
 <br /><br />
-From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with a formidable collection of law reports. In 2005, Amicus and Amnesty International donated materials that form the Capital Punishment Collection. Today the American floor also houses our European collection and international materials and is used for events and training. 
+From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with both its historical connections and a formidable collection of US law reports. In 2005, Amicus and Amnesty International donated materials that form the Capital Punishment Collection. 
 <br /><br />
-Later this year you can discover more about the Inn's American connection, which goes back to the sixteenth century, in the next exhibition about the Declaration of Independance. 
+The American floor was later converted to provide rooms for education and training purposes, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses our European collection and some international materials. 
+<br /><br />
+Later this year you can discover more about the Inn's American connection in the next exhibition being curated by the Middle Temple Archive and Library. 
 
 <param ve-image 
        label="The American Library, 1958 (MT 19/PHO/5/9/1)"
@@ -373,7 +375,7 @@ Later this year you can discover more about the Inn's American connection, which
 
 <param ve-image 
        label="US law reports, the Federal Reporter"
-       url="https://github.com/user-attachments/assets/56d69e45-3c6a-494e-877a-e63ec026c561">
+       url="https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8">
 
 <param ve-image 
        label="European Court Reports"
@@ -383,16 +385,8 @@ Later this year you can discover more about the Inn's American connection, which
        label="Annual Digest and Reports of International Public Law Cases"
        url="https://github.com/user-attachments/assets/4c569b78-787c-44ba-85b0-afd7fe5127e4">
 
-![3rdfloor](https://github.com/user-attachments/assets/1ad2689c-1aa6-4d30-bca9-edf93c8cb23d)
+![redrep](https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8)
 
-![carnegie](https://github.com/user-attachments/assets/5ea8c78d-caac-402b-9484-1061bbd6f0c1)
-
-![redrep](https://github.com/user-attachments/assets/56d69e45-3c6a-494e-877a-e63ec026c561)
-
-  ![ecrrep](https://github.com/user-attachments/assets/11591c97-8f96-4edb-a790-2da04e55f1f4)
-
-
-![ilr](https://github.com/user-attachments/assets/4c569b78-787c-44ba-85b0-afd7fe5127e4)
 
 ## From Catalogue Volumes to Online Searches
 
