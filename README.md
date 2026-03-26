@@ -376,7 +376,7 @@ Later this year you can discover more about the Inn's American connection in the
        url="https://github.com/user-attachments/assets/5ea8c78d-caac-402b-9484-1061bbd6f0c1">
 
 <param ve-image 
-       label="US law reports, the Federal Reporter"
+       label="US law reports, Federal Rules Decisions"
        url="https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8">
 
 ## From Catalogue Volumes to Online Searches
