@@ -354,6 +354,12 @@ The Ashley Library, some members may notice, bears some resemblance to the Libra
 
 ## The Gallery and its Globes
 
+One of the Inn's most notable treasures is a pair of celestial and terrestrial globes originally made in 1592, with the terrestrial one getting an update in 1603 for new discoveries. Created by Dutch mathematician Emery Molyneux, the Molyneux globes were dedicated to Queen Elizabeth I by their patron William Sanderson, costing £20, a large sum for the time. 
+<br /><br />
+The terrestrial globe is very accurate for its time, Molyneux having consulted the likes of Richard Hakluyt and Sir Walter Ralegh who was a Middle Templar. The terrestrial globe highlights the circumnavigations of Sir Francis Drake and Thomas Cavendish, the Arctic discoveries by Martin Frobisher and John Davis, as well as Raleigh's doomed Virginia colony. 
+<br /><br />
+Though the globes are a significant treasure for the Inn, there is not much in the way of their provenance. The earliest record the Inn has for the globes is a 1717 receipt for their repair. During the Second World War they were sent to Beaconsfield and stored with part of the Wallace collection at Hall Barn in the care of Lady Burnham, surviving the bombing of the Victorian library. They returned to London in 1945 and back into the new Middle Temple Library built in 1958. The globes are in the same spot today as they have been since the opening of the new Library. 
+
 ## The "American Floor"
 Middle Temple Library has been said to house the largest US law collection outside of the US. Donations to the US collection go back as far as 1910; in 1929 the Library recieved a donation of 2000 volumes from the Carnegie Foundation, and in 1954 the Library recieved donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. 
 <br /><br />
