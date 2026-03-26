@@ -376,15 +376,6 @@ Though the globes are a significant treasure for the Inn, there is not much in t
        label="Detail of terrestrial globe"
        url="https://github.com/user-attachments/assets/45cd9078-069f-4dd7-9e30-ee2f9055dbf6">
 
-![Globe](https://github.com/user-attachments/assets/17a7afc8-87b5-4e2f-aacf-af2e12348dcc)
-
-![Globe-America](https://github.com/user-attachments/assets/45cd9078-069f-4dd7-9e30-ee2f9055dbf6)
-
-![20250729_093000](https://github.com/user-attachments/assets/ee941f9b-42d7-4356-9139-6fd5361571cb)
-
-![20250729_092955](https://github.com/user-attachments/assets/aa179af9-25c3-45b8-ad05-e2c0540a28e8)
-
-
 ## The "American Floor"
 Middle Temple Library has been said to house the largest US law collection outside of the US. Donations to the US collection go back as far as 1910; in 1929 the Library recieved a donation of 2000 volumes from the Carnegie Foundation, and in 1954 the Library recieved donation of 550 volumes of American law reports and a few other legal texts from the American Government, presented by Winthrop Aldrich, US ambassador and honorary bencher. 
 <br /><br />
@@ -394,20 +385,17 @@ The American floor was later converted to provide rooms for education and traini
 <br /><br />
 Later this year you can discover more about the Inn's American connection in the next exhibition being curated by the Middle Temple Archive and Library. 
 
-![Declation of Independence](https://github.com/user-attachments/assets/3737674e-d048-4a76-9714-ce2c47dbeedc)
-
-
-<param ve-image 
-       label="Signatories on Declaration of Independance"
-       url="https://github.com/user-attachments/assets/3737674e-d048-4a76-9714-ce2c47dbeedc">
-
 <param ve-image 
        label="The American Library, 1958 (MT 19/PHO/5/9/1)"
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
 
 <param ve-image 
-       label="The American Library floor today"
+       label="The Rutledge Suite"
        url="https://github.com/user-attachments/assets/1ad2689c-1aa6-4d30-bca9-edf93c8cb23d">
+
+<param ve-image 
+       label="Signatories on Declaration of Independance"
+       url="https://github.com/user-attachments/assets/3737674e-d048-4a76-9714-ce2c47dbeedc">
 
 <param ve-image 
        label="Commemorating the donations of materials by Carnegie Foundation, 1929"
