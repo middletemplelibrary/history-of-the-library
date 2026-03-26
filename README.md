@@ -336,7 +336,7 @@ Read more about how the Inn was rebuilt after the destruction of the Second Worl
 ## The Ashley Building Library
 The current Library’s construction was completed in 1958. Once again, the Library was opened by our then royal bencher, the Queen Mother.
  <br /><br />
-With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2017.
+With wartime damage to the previous building in recent memory, Edward Maufe designed the new Library to be sturdy. It is because of that sturdiness the Inn was able to extend to a fourth floor which opened in 2007.
 <br /><br />
 The Ashley Library, some members may notice, bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
 
