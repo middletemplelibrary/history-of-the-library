@@ -157,7 +157,7 @@ By the early nineteenth century, No. 2 Garden Court had become old and dilapidat
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
 
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=17gafkNx0HMv-y59jfIS6CIORQNRGPGRvHEduPwu56ew&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRTMKGn-CsIbZeAKaLGnsuoVEmEIqvS9ZGPs_X6odDWegbfXOSOrbsX2zZPaBAIaN5FXvvA7izc-KHr&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
 <param ve-iframe
        label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
