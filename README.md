@@ -157,8 +157,6 @@ By the early nineteenth century, No. 2 Garden Court had become old and dilapidat
 <br /><br />
 In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
 
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRTMKGn-CsIbZeAKaLGnsuoVEmEIqvS9ZGPs_X6odDWegbfXOSOrbsX2zZPaBAIaN5FXvvA7izc-KHr&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
-
 <param ve-iframe
        label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
        src="https://ia802908.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2.zip&file=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_0132.jp2&id=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800&scale=15.5&rotate=0">
@@ -450,5 +448,6 @@ This is an example of a catalogue record from the card catalogue that became the
        label="Library card"
        url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
 
+## Timeline
 
-
+<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRTMKGn-CsIbZeAKaLGnsuoVEmEIqvS9ZGPs_X6odDWegbfXOSOrbsX2zZPaBAIaN5FXvvA7izc-KHr&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
