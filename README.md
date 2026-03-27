@@ -13,10 +13,7 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 ## The Library, an exhibition
 At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
 
-<param ve-image 
-       label="Middle Temple Library"
-       url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
-
+<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRTMKGn-CsIbZeAKaLGnsuoVEmEIqvS9ZGPs_X6odDWegbfXOSOrbsX2zZPaBAIaN5FXvvA7izc-KHr&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
 ## Origines juridiciales...
 or <strong><em>Historical memorials of the English laws, courts of justice, forms of tryall, punishment in cases criminal, law writers, law books, grants and settlements of estates, degree of serjeant, Innes of Court and Chancery. Also a chronologie of the lord chancelors and keepers of the great Seal, lord treasurers, justices itinerant, justices of the Kings Bench and Common Pleas, barons of the Exchequer, masters of the rolls, Kings attorneys and sollicitors, & serjeants at law by William Dugdale Esq; Norroy King of Arms. London : Printed for Christop. Wilkinson, Tho. Dring, and Charles Harper, and are to be sold at their Shops in Fleetstreet, 1680.</em></strong>
@@ -401,7 +398,7 @@ Later this year you can discover more about the Inn's American connection in the
        label="US law reports, Federal Rules Decisions"
        url="https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8">
 
-## From Catalogue Volumes to Online Searches
+## The Library catalogue
 
 The first library catalogue was compiled in 1655 by Henry Moodyman, who was paid £25 for his work. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
 <br /><br />
@@ -445,19 +442,6 @@ Printed in 1734, this catalogue organises the titles into alphabetical order, re
        label="1734 Library catalogue"
        url="https://github.com/user-attachments/assets/fe431646-156a-4392-a57e-74efd6167129">
 
-## Card Catalogues</strong>
-This is an example of a catalogue record from the card catalogue that became the norm in the nineteenth century in libraries. You can find the card catalogue on the Gallery before you enter the Library and on the third floor, next to the US collection. Today, the Library uses an online public access catalogue (OPAC) to organise its collections.
-
-<param ve-image 
-       label="Library card"
-       url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
-
-## Timeline
-
-This is an example of a catalogue record from the card catalogue that became the norm in the nineteenth century in libraries. You can find the card catalogue on the Gallery before you enter the Library and on the third floor, next to the US collection. Today, the Library uses an online public access catalogue (OPAC) to organise its collections.
-
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRTMKGn-CsIbZeAKaLGnsuoVEmEIqvS9ZGPs_X6odDWegbfXOSOrbsX2zZPaBAIaN5FXvvA7izc-KHr&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
 
 
-## Something else
