@@ -451,9 +451,18 @@ The collections have always been for the benefit of the Inn's members. Between t
 Up until the late twentieth century legal research was still reliant on printed law reports, textbooks and journals. Although computers are common-place when it comes to legal research today, it was not until 1989 that a computer was introduced into the library, providing access to a library catalogue /database. In 2000, a full network of computers providing fuller access to legal databases and a more sophisticated library catalogue was installed. A new version of the online catalogue was introduced in 2014. E-books on iPads were integrated into the collection in the same year. The latest development is the integration of AI enhanced searching, which Middle Temple Library provides through resources like Lexis Protégé. <br /><br />
 Hopefully the Library will continue to grow and evolve in response to the needs of its members, both students and practitioners. 
 
-![20250729_093053](https://github.com/user-attachments/assets/ea32fa5f-755f-4d5e-882d-34be67bb5123)
+
+
+![20250729_093053](https://github.com/user-attachments/assets/cbab5017-6cac-4b92-89fa-81fd19c4e5b3)
+
+
+![20250729_091938](https://github.com/user-attachments/assets/14834989-f2b2-4c22-bc7b-1547b74f1ac0)
 
 
 <param ve-image 
        label="View from the gallery"
-       url="https://github.com/user-attachments/assets/ea32fa5f-755f-4d5e-882d-34be67bb5123">
+       url="https://github.com/user-attachments/assets/cbab5017-6cac-4b92-89fa-81fd19c4e5b3">
+
+<param ve-image 
+       label="View from bay looking onto the lawn"
+       url="https://github.com/user-attachments/assets/14834989-f2b2-4c22-bc7b-1547b74f1ac0">
