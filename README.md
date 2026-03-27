@@ -37,6 +37,8 @@ The Library was officially re-founded by Robert Ashley (1565-1641) when he beque
 In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the [Minutes of Parliament](https://archive.org/details/middletemplereco02hopwuoft/middletemplereco02hopwuoft/page/916/mode/2up) in the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a which would be taken up by the executor of Ashley's, William Cox.
 <br /><br />
 Learn more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley.
+<br /><br />
+Find out more about the early librarians and porters who worked at Middle Temple Library in this post by the Archive: [A People's History of the Library](https://www.middletemple.org.uk/archive/archive-month/april-2021-peoples-history-library).
 
 
 <param ve-image 
