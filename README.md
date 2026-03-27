@@ -148,7 +148,7 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 ## New Parliament Chamber Library
 By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland's 1800 work <strong>[Picturesque views, with an historical account of the Inns of court, in London and Westminster](https://archive.org/details/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/page/n131/mode/2up?q=library)</strong>, describes the “extreme dirtiness” of the books and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
-In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber,  with an entrance via a staircase from the garden. The Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed, leading to the building of a new library on the river front.
+In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber. The Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed, leading to the building of a new library on the river front.
 
 <param ve-iframe
        label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
@@ -374,7 +374,7 @@ Middle Temple Library has been said to house the largest US law collection outsi
 <br /><br />
 From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with both its historical connections and a formidable collection of US law reports. In 2005, Amicus and Amnesty International donated materials that form the Capital Punishment Collection. 
 <br /><br />
-The American floor was later converted to provide rooms for education and training purposes, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses our European collection and some international materials. 
+The American floor was later converted to provide rooms for education and training purposes, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses some international materials and our EU collection which originated in 1972, as the UK entered the Common Market in 1973. The collection provides EU legislation and case law, along with materials for all 28 member states.
 <br /><br />
 Later this year you can discover more about the Inn's American connection in the next exhibition being curated by the Middle Temple Archive and Library. 
 
