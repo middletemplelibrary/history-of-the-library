@@ -13,7 +13,8 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 ## The Library, an exhibition
 At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
 
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRTMKGn-CsIbZeAKaLGnsuoVEmEIqvS9ZGPs_X6odDWegbfXOSOrbsX2zZPaBAIaN5FXvvA7izc-KHr&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+<param ve-image 
+       url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
 
 ## Origines juridiciales...
 or <strong><em>Historical memorials of the English laws, courts of justice, forms of tryall, punishment in cases criminal, law writers, law books, grants and settlements of estates, degree of serjeant, Innes of Court and Chancery. Also a chronologie of the lord chancelors and keepers of the great Seal, lord treasurers, justices itinerant, justices of the Kings Bench and Common Pleas, barons of the Exchequer, masters of the rolls, Kings attorneys and sollicitors, & serjeants at law by William Dugdale Esq; Norroy King of Arms. London : Printed for Christop. Wilkinson, Tho. Dring, and Charles Harper, and are to be sold at their Shops in Fleetstreet, 1680.</em></strong>
