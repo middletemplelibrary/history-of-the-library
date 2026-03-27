@@ -410,7 +410,7 @@ The first printed catalogue appeared in 1700, produced by Sir Bartholomew Shower
        url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
-and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
+and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong><br /><br />
 The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
 <br /><br />
 It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
