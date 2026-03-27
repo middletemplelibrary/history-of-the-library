@@ -457,16 +457,15 @@ Hopefully the Library will continue to grow and evolve in response to the needs 
 
 
 
-![20250729_093053](https://github.com/user-attachments/assets/cbab5017-6cac-4b92-89fa-81fd19c4e5b3)
+![MTL (73)](https://github.com/user-attachments/assets/24910db5-1c3a-40e4-9402-4c81a0f64456)
 
-
-![20250729_091938](https://github.com/user-attachments/assets/14834989-f2b2-4c22-bc7b-1547b74f1ac0)
+![MTL (11)](https://github.com/user-attachments/assets/ea1acba3-a6ea-47f6-ac27-f8af79d1567d)
 
 
 <param ve-image 
        label="View from the gallery"
-       url="https://github.com/user-attachments/assets/cbab5017-6cac-4b92-89fa-81fd19c4e5b3">
+       url="https://github.com/user-attachments/assets/24910db5-1c3a-40e4-9402-4c81a0f64456">
 
 <param ve-image 
-       label="View from bay looking onto the lawn"
-       url="https://github.com/user-attachments/assets/14834989-f2b2-4c22-bc7b-1547b74f1ac0">
+       label="View from back of main floor"
+       url="https://github.com/user-attachments/assets/ea1acba3-a6ea-47f6-ac27-f8af79d1567d">
