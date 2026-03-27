@@ -461,10 +461,11 @@ Hopefully the Library will continue to grow and evolve in response to the needs 
 
 
 ##
-
+<br />
 Curated by Emma Manktelow and Harpreet Dhillon.<br />
-Many rhanks are due to the Archive team for all their help.<br /><br />
-This exhibition runs from February to May 2026. The Inn library is a member-only space, Heritage Tours are available for non-members. [Book here](https://www.middletemple.org.uk/library/library-heritage-tours). <br />
+Many thanks are owed to the Archive team for all their help.<br /><br />
+This exhibition runs from February to May 2026. <br />
+The Inn library is a member-only space, but tours are available for non-members. [Book here](https://www.middletemple.org.uk/library/library-heritage-tours). <br />
 <br />
 For more information about the Library and what we do, please visit [our website](https://www.middletemple.org.uk/library).
 
