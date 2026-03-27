@@ -68,10 +68,6 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
        label="Detail from An astronomicall description of the late comet, 1618"
        url="https://github.com/user-attachments/assets/ba1ff228-f498-40d0-b373-5a1efeba3538">
 
-<param ve-image 
-       label="Detail from An astronomicall description of the late comet, 1618"
-       url="https://github.com/user-attachments/assets/7b7fa8b7-862a-45cb-8401-12e381bff37c">
-
 
 ## Magick & astrology vindicated from those false aspersions and calumnies, which the ignorance of some hath cast upon them.
 <strong> In which is contained true definitions of the said arts, and the justification of their practise, proved by the authority of Scripture, and the experience of ancient and modern authors. With observations from several remarkable conjunctions and apparitions: as those three suns that appeared before the Kings death, &c. Impartially communicated for the publique good. / By Hardick Warren, a well-wisher to the most secret occult arts and learning. London : Printed [by] J.M. for N. Brook, 1651.</strong>
@@ -406,6 +402,13 @@ Later this year you can discover more about the Inn's American connection in the
        url="https://github.com/user-attachments/assets/54b49f35-949e-48ed-bda3-15e9007766a8">
 
 ## From Catalogue Volumes to Online Searches
+
+The first library catalogue was compiled in 1655 by Henry Moodyman, who was paid £25 for his work. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. The first printed catalogue appeared in 1700, produced by Sir
+Bartholomew Shower, who was Treasurer of the Inn at the time. This was succeeded by a 1734 catalogue which was more helpfully arranged by author and title. In the nineteenth and twentieth centuries, catalogues were published in 1845, 1880 and 1914, with supplements issued up to 1925. A card catalogue was introduced and updated until the late 20th century, when a computer catalogue took its place. 
+
+<param ve-image 
+       label="Catalogue record from card catalogue on 2nd floor of Library"
+       url="https://github.com/user-attachments/assets/fc694a90-7dee-481e-bd8f-21311257d8a5">
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
 and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong>
