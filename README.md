@@ -353,11 +353,6 @@ For the terrestrial globe Emery Molyneux consulted the likes of Richard Hakluyt 
 <br /><br />
 Though the globes are a significant treasure for the Inn, there is not much in the way of their provenance. The earliest record the Inn has for the globes is a 1717 receipt for their repair. During the Second World War they were sent to Beaconsfield and stored with part of the Wallace collection at Hall Barn in the care of Lady Burnham, surviving the bombing of the Victorian library. They returned to London in 1945 and back into the new Middle Temple Library built in 1958. The globes are in the same spot on the gallery today as they have been since the opening of the new Library. 
 
-
-![galleryglobe1](https://github.com/user-attachments/assets/c9559e1f-fa6d-4d95-9833-4e6bbef51fa6)
-
-![galleryglobe2](https://github.com/user-attachments/assets/fbc3332c-b192-4b45-b67a-101885a4ce38)
-
 <param ve-image 
        label="Celestial globe"
        url="https://github.com/user-attachments/assets/c9559e1f-fa6d-4d95-9833-4e6bbef51fa6">
@@ -407,7 +402,7 @@ Later this year you can discover more about the Inn's American connection in the
 
 The first library catalogue was compiled in 1655 by Henry Moodyman, who was paid £25 for his work. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
 <br /><br />
-The first printed catalogue appeared in 1700, produced by Sir Bartholomew Shower, who was Treasurer of the Inn at the time. This was succeeded by a 1734 catalogue which was more helpfully arranged by author and title. In the nineteenth and twentieth centuries, catalogues were published in 1845, 1880 and 1914, with supplements issued up to 1925. A card catalogue was introduced and updated until the late 20th century, when a [computer catalogue](https://www.middletemplelibrary.org.uk/client/en_GB/default) took its place and is now remotely viewable to all.
+The first printed catalogue appeared in 1700, produced by Sir Bartholomew Shower, who was Treasurer of the Inn at the time. This was succeeded by a 1734 catalogue which was more helpfully arranged by author and title. In the nineteenth and twentieth centuries, catalogues were published in 1845, 1880 and 1914, with supplements issued up to 1925. A card catalogue was introduced and updated until the late 20th century, when a computer catalogue took its place. Now the Library has an [online catalogue](https://www.middletemplelibrary.org.uk/client/en_GB/default) which is accessible for all to consult. 
 
 <param ve-image 
        label="Catalogue record from card catalogue on 2nd floor of Library"
