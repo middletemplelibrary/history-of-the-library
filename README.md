@@ -130,10 +130,10 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
        url="https://github.com/user-attachments/assets/01ce3859-5565-41d4-a4ed-75391f0bf5cb">
 
 ## Early Days of the Library
-Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century.
+Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century. 
 <br /><br />
 NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
-The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today! 
+The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today.
 
 <param ve-image 
        label="Detail of map by John Ogilby, 1677"
@@ -148,7 +148,7 @@ The previous No. 1 Garden Court was originally known as the Barbon’s Buildings
 ## New Parliament Chamber Library
 By the early nineteenth century, No. 2 Garden Court had become old and dilapidated, having been built in 1625 and apparently not being well kept. Samuel Ireland's 1800 work <strong>[Picturesque views, with an historical account of the Inns of court, in London and Westminster](https://archive.org/details/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/page/n131/mode/2up?q=library)</strong>, describes the “extreme dirtiness” of the books and The Times (23rd June, 1824) called the Library a “<strong>miserable dirty hole</strong>”.
 <br /><br />
-In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber, the Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed.
+In 1824 a new purpose-built Library was gratefully constructed by architect Henry Hakewill. Located in today’s Parliament Chamber,  with an entrance via a staircase from the garden. The Library was almost immediately too small to house all the books in the collection. A gallery was built as a temporary measure in 1854, but a more permanent solution was needed, leading to the building of a new library on the river front.
 
 <param ve-iframe
        label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
