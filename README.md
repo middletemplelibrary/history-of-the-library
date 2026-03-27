@@ -456,16 +456,6 @@ Up until the late twentieth century legal research was still reliant on printed 
 Hopefully the Library will continue to grow and evolve in response to the needs of its members, both students and practitioners. 
 
 
-
-![MTL (73)](https://github.com/user-attachments/assets/24910db5-1c3a-40e4-9402-4c81a0f64456)
-
-![MTL (11)](https://github.com/user-attachments/assets/ea1acba3-a6ea-47f6-ac27-f8af79d1567d)
-
-
 <param ve-image 
-       label="View from the gallery"
-       url="https://github.com/user-attachments/assets/24910db5-1c3a-40e4-9402-4c81a0f64456">
-
-<param ve-image 
-       label="View from back of main floor"
+       label="View of Library main floor"
        url="https://github.com/user-attachments/assets/ea1acba3-a6ea-47f6-ac27-f8af79d1567d">
