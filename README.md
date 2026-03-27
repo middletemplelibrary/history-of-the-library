@@ -11,7 +11,7 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ## The Library, an exhibition
-At Middle Temple there has been a library in some form since 1540 and this exhibition traces the history of the libraries that have served Middle Temple from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at this part of the Inn which has evolved and continues to evolve with the changing needs of the members it serves. 
+At Middle Temple there has been a library in some form since 1540. This exhibition traces the history of the libraries that have supported Middle Temple members from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at a part of the Inn which has evolved and continues to evolve with the changing needs of its members. 
 
 <param ve-image 
        url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
@@ -23,9 +23,9 @@ This work is rich with information about the history of English law, lawyers and
 <br /><br />
 This volume was previously owned by Sir James Burrow (1701-1782), a law reporter and Master of the Crown Office. <em>Origines Judiciales</em> was also one of many books discovered to have had prints cut out of it when Librarian John Hele discovered that some books had been stolen from the Library. Amongst the stolen books, two titles by Dugdale were also taken. 
 <br /><br />
-Read more about book thefts and the Library in this post by Middle Temple Archive: [Stealing and Sleuthing – The 1735 Book Theft at Middle Temple Library](https://www.middletemple.org.uk/archive-history/archive-month/october-2024-stealing-sleuthing-1735-book-theft-middle-temple-library)
+Read more about [Origines juridiciales](https://middletemplelibrary.wordpress.com/tag/william-dugdale/) on the Library's blog.
 <br /><br />
-Read more about [Origines juridiciales](https://middletemplelibrary.wordpress.com/tag/william-dugdale/) on the Library's blog. 
+Read more about book thefts and the Library in this post by Middle Temple Archive: [Stealing and Sleuthing – The 1735 Book Theft at Middle Temple Library](https://www.middletemple.org.uk/archive-history/archive-month/october-2024-stealing-sleuthing-1735-book-theft-middle-temple-library).
 
 <param ve-image 
        label="Detail from Origines Juridiciales, 1680"
@@ -34,11 +34,11 @@ Read more about [Origines juridiciales](https://middletemplelibrary.wordpress.co
 ## The Will of Robert Ashley, 1641
 The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of approximately 6,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
-In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the [Minutes of Parliament](https://archive.org/details/middletemplereco02hopwuoft/middletemplereco02hopwuoft/page/916/mode/2up) in the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a which would be taken up by the executor of Ashley's, William Cox.
+In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the [Minutes of Parliament](https://archive.org/details/middletemplereco02hopwuoft/middletemplereco02hopwuoft/page/916/mode/2up) in the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a post which would be taken up by the executor of Ashley's, William Cox.
 <br /><br />
-Learn more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley.
+Read more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley.
 <br /><br />
-Find out more about the early librarians and porters who worked at Middle Temple Library in this post by the Archive: [A People's History of the Library](https://www.middletemple.org.uk/archive/archive-month/april-2021-peoples-history-library).
+Read more about the early librarians and porters who worked at Middle Temple Library in this post by the Archive: [A People's History of the Library](https://www.middletemple.org.uk/archive/archive-month/april-2021-peoples-history-library).
 
 
 <param ve-image 
@@ -75,12 +75,12 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
 This is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. When he died in 1707, he left his books and tracts to Middle Temple and his manuscripts to Inner Temple with £150 to buy a place to preserve the collection, which resulted in the Library being enlarged to accommodate the bequest.
 
 <param ve-image 
-       label="Detail from Magick & astrology vindicated from those false aspersions and calumnies, 1651"
-       url="https://github.com/user-attachments/assets/66592b86-36a9-4d41-83a4-a7212ec97b2a">
-
-<param ve-image 
        label="Detail from Magick & astrology vindicated from those false aspersions and calumnies, 1651""
        url="https://github.com/user-attachments/assets/567aacb7-c896-45f4-b260-47d21610e955">
+
+<param ve-image 
+       label="Detail from Magick & astrology vindicated from those false aspersions and calumnies, 1651"
+       url="https://github.com/user-attachments/assets/66592b86-36a9-4d41-83a4-a7212ec97b2a">
 
 ## The Establish’d State of the Publick Offices under His Majesty King George II. 
 <strong>Containing true and exact lists of the Lords of his Majesty’s privy-council. London: Printed for Weaver Bickerton, in Devereux Court, without Temple Bar; and sold by J. Roberts in Warwick-Lane; A. Dodd, without Temple-Bar; E. Nutt, at the Royal-Exchange, T. Green, at Charing-Cross, J. Penn, in Westminster-Hall, and P. Meighan, at Gray’s-Inn Gate, 1718.</strong>
@@ -135,8 +135,7 @@ This book contains one of the earliest inscriptions (1693) claiming ownership by
 ## Early Days of the Library
 Soon after the bequest, Ashley’s books were moved to the Lower Parliament Chamber, under lock and key, until a Library could be built to accommodate them. It wasn’t until 1650 that a purpose-built Library was constructed. The first official Library space was established in old, converted chambers over the kitchen, in a building then called Garden Building and later renamed No. 2 Garden Court, located to the East side of the Hall. The Library remained in that building for almost 200 years, until the early nineteenth century. 
 <br /><br />
-NOTE:  Buildings around the Inn have changed their names throughout the years. Current day Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. 
-The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today.
+It's important to note that buildings around the Inn have changed their names throughout the years. The current Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today.
 
 <param ve-image 
        label="Detail of map by John Ogilby, 1677"
@@ -282,7 +281,7 @@ In 1941 a bomb fell that caused the Library roof to cave in and rendered the bui
 <br /><br />
 Though much was destroyed, astonishingly, much also survived. Look closely at the photo showing the damage at the north side entrance of the Library and you can see the Robert Ashley portrait painted by Thomas Leigh in 1656 poking above the bookshelves on the right-hand-side. This portrait still hangs in the Library today.
 <br /><br />
-Read more about the Gothic library in the this post by Middle Temple Archive: [The Lost Middle Temple Library – Life and Death of a Victorian Edifice](https://www.middletemple.org.uk/september-2023-lost-middle-temple-library-%E2%80%93-life-and-death-victorian-edifice).
+Read more about the Gothic library in the this post by the Archive: [The Lost Middle Temple Library – Life and Death of a Victorian Edifice](https://www.middletemple.org.uk/september-2023-lost-middle-temple-library-%E2%80%93-life-and-death-victorian-edifice).
 
 <param ve-image 
        label="Bomb damage to the old Library (looking north)"
@@ -304,7 +303,7 @@ A new library would emerge after much discussion. Prior to the construction of t
 <br /><br />
 Originally, he designed a six-storey structure to be built on top of the site of the Gothic Library (which would be demolished), however it was agreed this would cost the Inn too much money. Maufe’s second design culminated in the Library that stands on Middle Temple Lane today. As for the temporary Library, it was demolished in 1958 to make way for the car park.
 <br /><br />
-Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by Middle Temple Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
+Read more about how the Inn was rebuilt after the destruction of the Second World War in this post by the Archive: [Rising from an Ordeal – The Postwar Reconstruction of the Inn](https://www.middletemple.org.uk/archive-history/archive-month/june-2024-rising-from-ordeal-postwar-reconstruction-of-inn).
 
 
 <param ve-image 
