@@ -406,6 +406,8 @@ Later this year you can discover more about the Inn's American connection in the
 The first library catalogue was compiled in 1655 by Henry Moodyman, who was paid £25 for his work. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
 <br /><br />
 The first printed catalogue appeared in 1700, produced by Sir Bartholomew Shower, who was Treasurer of the Inn at the time. This was succeeded by a 1734 catalogue which was more helpfully arranged by author and title. In the nineteenth and twentieth centuries, catalogues were published in 1845, 1880 and 1914, with supplements issued up to 1925. A card catalogue was introduced and updated until the late 20th century, when a computer catalogue took its place. Now the Library has an [online catalogue](https://www.middletemplelibrary.org.uk/client/en_GB/default) which is accessible for all to consult. 
+<br /><br />
+Read more about the early [Library manuscript catalogues](https://www.middletemple.org.uk/archive-history/archive-information-access/sources-resources/digitised-records/library-manuscript). 
 
 <param ve-image 
        label="Catalogue record from card catalogue on 2nd floor of Library"
