@@ -449,8 +449,4 @@ The Library has come a long way since the Ashley bequest of 6,000 books. By the 
 The collections have always been for the benefit of the Inn's members. Between the 17th and 19th centuries legal education was more wide-ranging, which means our collections consist predominantly of legal material, but there are also works on geography, topography, philosophy, theology and literature, The establishment of the Council of Legal Education in 1852 and the introduction of compulsory examinations for the Bar in 1872 shifted the Library's collection development towards primarily legal works. 
 <br /><br />
 Up until the late twentieth century legal research was still reliant on printed law reports, textbooks and journals. Although computers are common-place when it comes to legal research today, it was not until 1989 that a computer was introduced into the library, providing access to a library catalogue /database. In 2000, a full network of computers providing fuller access to legal databases and a more sophisticated library catalogue was installed. A new version of the online catalogue was introduced in 2014. E-books on iPads were integrated into the collection in the same year. The latest development is the integration of AI enhanced searching, which Middle Temple Library provides through resources like Lexis Protégé. <br /><br />
-Libraries are accepted as growing organisms and so the Middle Temple Library continues to grow and evolve to meet the needs of all Inns of Court members, whether they be at the beginning or the height of their career. 
-
-
-
-
+Hopefully the Library will continue to grow and evolve in response to the needs of its members, supporting more hopefuls in their journey to the Bar.
