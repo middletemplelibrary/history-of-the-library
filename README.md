@@ -355,6 +355,24 @@ For the terrestrial globe Emery Molyneux consulted the likes of Richard Hakluyt 
 <br /><br />
 Though the globes are a significant treasure for the Inn, there is not much in the way of their provenance. The earliest record the Inn has for the globes is a 1717 receipt for their repair. During the Second World War they were sent to Beaconsfield and stored with part of the Wallace collection at Hall Barn in the care of Lady Burnham, surviving the bombing of the Victorian library. They returned to London in 1945 and back into the new Middle Temple Library built in 1958. The globes are in the same spot on the gallery today as they have been since the opening of the new Library. 
 
+
+![DSC_2530](https://github.com/user-attachments/assets/b372ff59-d89b-4d60-afe3-4c4f823e43c0)
+
+
+![DSC_25301](https://github.com/user-attachments/assets/bcdc015e-03b0-4e85-8cdb-595ed8a4960a)
+
+
+<param ve-image 
+       label="Celestial globe"
+       url="https://github.com/user-attachments/assets/b372ff59-d89b-4d60-afe3-4c4f823e43c0">
+
+<param ve-image 
+       label="Terrestrial globe"
+       url="https://github.com/user-attachments/assets/bcdc015e-03b0-4e85-8cdb-595ed8a4960a">
+
+
+       
+
 <param ve-image 
        label="Celestial globe"
        url="https://github.com/user-attachments/assets/c9559e1f-fa6d-4d95-9833-4e6bbef51fa6">
