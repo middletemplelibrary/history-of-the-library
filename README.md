@@ -138,6 +138,10 @@ Soon after the bequest, Ashley’s books were moved to the Lower Parliament Cham
 It's important to note that buildings around the Inn have changed their names throughout the years. The current Nos. 1 and 2 Garden Court on the west side of the Hall were originally known as Nos. 3 and 4 Garden Court in the seventeenth century, up until 1824. The previous No. 1 Garden Court was originally known as the Barbon’s Buildings, built in 1678 and located south of the Hall, close to the old Temple Steps which gave access to the river Thames. With the new 1832 building, 1 Garden Court became 3 and 4 Plowden Buildings (destroyed during the war), which is approximately where the Library stands today.
 
 <param ve-image 
+       label="Beats of the Middle Temple Watchmen 1850" 
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0052.JPG">
+
+<param ve-image 
        label="Detail of map by John Ogilby, 1677"
        url="https://github.com/user-attachments/assets/29a46e82-eefc-4ff1-baf2-05d7ec9a699e">
 
