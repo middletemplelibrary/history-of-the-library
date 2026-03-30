@@ -235,7 +235,7 @@ In 1928, the Library decided to upgrade its heating. A quote from Benham and Son
 ## Lighting
 Lighting would always been an issue. Back when the Library was in Parliament Chamber, lit by oil lamps. There was a petition for lunch in hall outside of term time, and added into the petition was also the request of opening the Library during the evening and lighting it. 
 <br /><br />
-The Victorian library was big space, so lighting here was again a concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
+The Victorian library was a big space, so lighting here was again a concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
 <br /><br />
 In 1971 too the Library updated its lighting, this time in the modern building. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
@@ -449,7 +449,7 @@ Printed in 1734, this catalogue organises the titles into alphabetical order, re
 ## The Library today
 
 The Library has come a long way since the Ashley bequest of 6,000 books. By the ninetheenth century, the collection had grown to 14,000 books, 40,000 by the early 20th century. Even though the 1861 Library was capable of holding 60,000 books, it was not long before space was an issue for the growing collection. Up until a few years ago, the Library's collection reached 250,000 volumes of textbooks, law reports, journals and Parliamentary papers.<br /><br />
-The collections have always been for the benefit of the Inn's members. Between the 17th and 19th centuries legal education was more wide-ranging, which means our collections consist predominantly of legal material, but there are also works on geography, topography, philosophy, theology and literature, The establishment of the Council of Legal Education in 1852 and the introduction of compulsory examinations for the Bar in 1872 shifted the Library's collection development towards primarily legal works. 
+Between the 17th and 19th centuries legal education was more wide-ranging, which means that though our collections consist predominantly of legal material, there are also works on geography, topography, philosophy, theology and literature. The establishment of the Council of Legal Education in 1852 and the introduction of compulsory examinations for the Bar in 1872 would shift the Library's collection development towards primarily legal works. 
 <br /><br />
 Up until the late twentieth century legal research was still reliant on printed law reports, textbooks and journals. Although computers are common-place when it comes to legal research today, it was not until 1989 that a computer was introduced into the library, providing access to a library catalogue /database. In 2000, a full network of computers providing fuller access to legal databases and a more sophisticated library catalogue was installed. A new version of the online catalogue was introduced in 2014. E-books on iPads were integrated into the collection in the same year. The latest development is the integration of AI enhanced searching, which Middle Temple Library provides through resources like Lexis Protégé. <br /><br />
 Hopefully the Library will continue to grow and evolve in response to the needs of its members, both students and practitioners. 
@@ -467,7 +467,7 @@ Many thanks are owed to the Archive team for all their help.<br /><br />
 This exhibition runs from February to May 2026. <br />
 The Inn library is a member-only space, but tours are available for non-members. [Book here](https://www.middletemple.org.uk/library/library-heritage-tours). <br />
 <br />
-For more information about the Library and what we do, please visit [our website](https://www.middletemple.org.uk/library).
+For more information about the Library and what we do, please visit [our website](https://www.middletemple.org.uk/library) and download [this guide](https://www.middletemple.org.uk/sites/default/files/documents/Library%20History%20Guide%202023.pdf).
 
 
 <param ve-image 
