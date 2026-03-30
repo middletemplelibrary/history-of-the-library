@@ -376,7 +376,7 @@ Middle Temple Library has been said to house the largest US law collection outsi
 <br /><br />
 From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with both its historical connections and a formidable collection of US law reports. In 2005, Amicus and Amnesty International donated materials that form the Capital Punishment Collection. 
 <br /><br />
-The American floor was later converted to provide rooms for education and training purposes, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses some international materials and our EU collection which originated in 1972, as the UK entered the Common Market in 1973. The collection provides EU legislation and case law, along with materials for all 28 member states.
+The American floor was later converted to provide rooms for education and training purposes, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses some international materials and our EU collection which originated in 1972, as the UK entered the Common Market in 1973. The collection provides EU legislation and case law, along with materials for all 27 member states.
 <br /><br />
 Later this year you can discover more about the Inn's American connection in the next exhibition being curated by the Middle Temple Archive and Library. 
 
