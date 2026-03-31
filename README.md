@@ -405,7 +405,7 @@ Later this year you can discover more about the Inn's American connection in the
 
 ## The Library catalogue
 
-The first library catalogue was compiled in 1655 by Henry Moodyman, who was paid £25 for his work. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
+The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including the manuscript below. A catalogue was compiled in 1655 by Henry Moodyman, who was paid £25 for his work. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
 <br /><br />
 The first printed catalogue appeared in 1700, produced by Sir Bartholomew Shower, who was Treasurer of the Inn at the time. This was succeeded by a 1734 catalogue which was more helpfully arranged by author and title. In the nineteenth and twentieth centuries, catalogues were published in 1845, 1880 and 1914, with supplements issued up to 1925. A card catalogue was introduced and updated until the late 20th century, when a computer catalogue took its place. Now the Library has an [online catalogue](https://www.middletemplelibrary.org.uk/client/en_GB/default) which is accessible for all to consult. 
 <br /><br />
@@ -417,9 +417,7 @@ Read more about the early [Library manuscript catalogues](https://www.middletemp
 
 ## Liber benefactorum / Societatis Medij Templi Bibliothecae donum Bartholomei Shower militis ejusdem societatis thesaurarij annon domini 1700 
 and <strong>Bibliotheca illustris Medii Templi Societatis, : in ordinem juxta rerum naturam redacta ac digesta: V. iduum Sept. MDCC. / Auspicio & sumptu Barth. Shower, militis, hujus aedis quaestoris.</strong><br /><br />
-The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including this manuscript on the right.
-<br /><br />
-It was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
+This catalogue was started in 1700 and lists all major donations to the library covering 1641-1711, and 1826-1884. The end-leaves have manuscript notes regarding Library Keepers and rules and orders of the library. This manuscript also lists the first printed catalogue. It was commissioned by Sir Bartholomew Shower, Treasurer of the Inn in 1700. According to the 'Liber Benefactorum' manuscript (MS 137), this copy was presented to the library in 1834 by Robert Maitland.
 
 <param ve-image 
        label="Title page of Liber benefactorum 1641-1711, 1826-84"
