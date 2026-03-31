@@ -14,6 +14,7 @@ Welcome to Middle Temple Library’s exhibition on the History of the Library
 At Middle Temple there has been a library in some form since 1540. This exhibition traces the history of the libraries that have supported Middle Temple members from Tudor times to the present, through items in the rare books collection and the Inn's archival records. The exhibition provides glimpses at a part of the Inn which has evolved and continues to evolve with the changing needs of its members. 
 
 <param ve-image 
+       label="View of 1st floor from gallery"
        url="https://github.com/user-attachments/assets/a4b5ba82-ca18-469c-946b-8c2de74a53c5">
 
 ## Origines juridiciales...
