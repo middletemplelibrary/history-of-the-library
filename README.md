@@ -245,11 +245,11 @@ The Victorian library was a big space, so lighting here was again a concern. The
 In 1971 too the Library updated its lighting, this time in the modern building. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
 <param ve-image 
-       label="Petition from barristers and students, 1871 (MT/1/PPA/3731a)"
+       label="Petition from barristers and students, 1871"
        url="https://github.com/user-attachments/assets/2eea9ab2-8282-490c-b6c7-1146d86b50b2">
 
 <param ve-image 
-       label="Plan of Middle Temple Library showing two different proposals of lighting the building with electricity, c.1894 (MT/6/RBW/206)"
+       label="Plan of Middle Temple Library showing two different proposals of lighting the building with electricity, c.1894"
        url="https://github.com/user-attachments/assets/f2ce9a70-3126-448b-8f51-04b2307a8881">
 
 <param ve-image 
@@ -257,7 +257,7 @@ In 1971 too the Library updated its lighting, this time in the modern building. 
        url="https://github.com/user-attachments/assets/ae4f2fdd-a79d-44ab-9cc6-068edc86583c">
 
 <param ve-image 
-       label="New lighting in the Library, 1971 (MT19/PHO/5/1)"
+       label="New lighting in the Library, 1971"
        url="https://github.com/user-attachments/assets/fbb5b171-bc84-477f-a44b-a19591ca9ae0">
 
 <param ve-image 
@@ -293,7 +293,7 @@ Read more about the Gothic library in the this post by the Archive: [The Lost Mi
        url="https://github.com/user-attachments/assets/0b78dedc-a4e7-4580-b70e-9cdbc4db8822">
 
 <param ve-image 
-       label="Letter from Librarian to Miss Woodward (MT1/WAR/35)"
+       label="Letter from Librarian to Miss Woodward"
        url="https://github.com/user-attachments/assets/46b3230f-9677-4408-8a6b-a2ab7d482e8c">
 
 <param ve-image 
@@ -321,16 +321,16 @@ Read more about how the Inn was rebuilt after the destruction of the Second Worl
 
 
 <param ve-image 
-       label="Press cutting regarding the temporary library (MT 19/PHO/5/16)"
+       label="Press cutting regarding the temporary library"
        url="https://github.com/user-attachments/assets/bafbca8e-9e29-4af0-8f3c-68262e44c092">
 
 <param ve-image 
-       label="The temporary library at 2 and 3 Brick Court, November 1946 (MT/9/LIB/71)"
+       label="The temporary library at 2 and 3 Brick Court, November 1946"
        url="https://github.com/user-attachments/assets/2f4f0436-e206-4112-a06d-7686bb4cb951">
 
 
 <param ve-image 
-       label="Extract of aerial photo which shows the temporary library, the site of the Victorian library and the site of the future library (MT/19/PHO/14/6)"
+       label="Extract of aerial photo which shows the temporary library, the site of the Victorian library and the site of the future library"
        url="https://github.com/user-attachments/assets/d12f3c37-a335-42b5-882c-417703c26b35">
 
 ## The Ashley Building Library
@@ -341,15 +341,15 @@ With wartime damage to the previous building in recent memory, Edward Maufe desi
 The Ashley Library, some members may notice, bears some resemblance to the Library at Grays Inn. It is then not surprising that the architect behind both was Edward Maufe.
 
 <param ve-image 
-       label="Gallery view of the new Library, 1958 (MT/19/PHO/5/19/3)"
+       label="Gallery view of the new Library, 1958"
        url="https://github.com/user-attachments/assets/09d40672-8596-4bc1-8010-f7f6b93417f7">
 
 <param ve-image 
-       label="Entrance to Middle Temple Library, showing the coats of arms of the three Treasurers involved in the building of the new library, 1958 (MT/19/PHO/5/19/6)"
+       label="Entrance to Middle Temple Library, showing the coats of arms of the three Treasurers involved in the building of the new library, 1958"
        url="https://github.com/user-attachments/assets/9b5e1670-b263-4ad9-9111-03619134750f">
 
 <param ve-image 
-       label="First floor of the Library, 1959 (MT/19/PHO/5/20)"
+       label="First floor of the Library, 1959"
        url="https://github.com/user-attachments/assets/7fae44d5-cb54-45b2-aaae-1b3c12d32d99">
 
 ## The Gallery and its Globes
@@ -386,7 +386,7 @@ The American floor was later converted to provide rooms for education and traini
 Later this year you can discover more about the Inn's American connection in the next exhibition being curated by the Middle Temple Archive and Library. 
 
 <param ve-image 
-       label="The American Library, 1958 (MT 19/PHO/5/9/1)"
+       label="The American Library, 1958"
        url="https://github.com/user-attachments/assets/cd785d9e-0416-4771-af07-0a7ac8a1d30d">
 
 <param ve-image 
