@@ -31,9 +31,9 @@ Read more about book thefts and the Library in this post by Middle Temple Archiv
        url="https://github.com/user-attachments/assets/68de3833-5433-49bc-90df-7f4da7021b5e">
 
 ## The Will of Robert Ashley, 1641
-The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of approximately 6,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library: history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
+The Library was officially re-founded by Robert Ashley (1565-1641) when he bequeathed his collection of approximately 6,000 books to the Inn. Ashley was so well-respected at Middle Temple that, although he no longer practiced law, he was allowed to keep his chambers and even extend them to house his large, growing collection of books. He had a wide range of interests and this was reflected in his library, which covered history, politics, medicine, science, astrology, and more, written in mostly Latin, French and Spanish. 
 <br /><br />
-In his will, Ashley specifies that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the [Minutes of Parliament](https://archive.org/details/middletemplereco02hopwuoft/middletemplereco02hopwuoft/page/916/mode/2up) in the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a post which would be taken up by the executor of Ashley's, William Cox.
+In his will, Ashley specified that the collection should be used by any student <strong>“whether of our owne or of any forraigne nation”</strong> (his will was reproduced in the [Minutes of Parliament](https://archive.org/details/middletemplereco02hopwuoft/middletemplereco02hopwuoft/page/916/mode/2up) in the entry for <strong>Parliament holden 28 Jan., 1641</strong>). He also set aside £300 for a Keeper of the Books to maintain the Library, thus establishing the position of Librarian at Middle Temple, a post which would be taken up by the executor of Ashley's will, William Cox.
 <br /><br />
 Read more about Robert Ashley in this article: [A Transcription and Translation of Sloane MS. 2131, Robert Ashley’s (1561-1641) Vita](https://bl.iro.bl.uk/concern/articles/97b10a5c-a183-4449-b2d7-3b41e6f5208e) by Astrid Kesler, Jennifer K Nelson and Dr Renae Satterley.
 <br /><br />
@@ -55,7 +55,7 @@ Read more about the early librarians and porters who worked at Middle Temple Lib
 ## An astronomicall description of the late comet from the 18. of Nouemb. 1618. to the 16. of December following.
 <strong>With certaine morall progosticks or applications drawne from the comets motion and irradiation amongst the celestiall hierglyphicks. By vigilant and diligent obseruations of Iohn Bainbridge Doctor of Physicke, and louer of the mathematicks. London :  Printed by Edward Griffin for Iohn Parker, 1618.</strong>
 <br /><br />
-In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though suggested they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
+In 1618 there were three comet sightings visible to the naked eye; for the first time easier to observe than ever before with the invention of the telescope. Copernicus had caused scandal with his heliocentric model of the galaxy and now further controversy followed with discourse around these comets. The sighting of the Great Comet (C/1618 W1) offered clarity to the nature of these celestial bodies, previously thought to be signs of disaster or sublunar vapours. Along with other observers, John Bainbridge agreed comets were naturally occurring phenomena, not portents of doom (though he did suggest they could still be divine omens). This work earned him a professorship at Oxford in 1619. 
 <br /><br />
 This item is part of Robert Ashley's original bequest, which contains more non-legal subjects than legal and provides great insight into his wide-ranging interests, and perhaps by extension, the interests of gentleman like him. He was perhaps our most notable benefactor, but the Library has recieved other interesting donations too. 
 
@@ -71,7 +71,7 @@ This item is part of Robert Ashley's original bequest, which contains more non-l
 ## Magick & astrology vindicated from those false aspersions and calumnies, which the ignorance of some hath cast upon them.
 <strong> In which is contained true definitions of the said arts, and the justification of their practise, proved by the authority of Scripture, and the experience of ancient and modern authors. With observations from several remarkable conjunctions and apparitions: as those three suns that appeared before the Kings death, &c. Impartially communicated for the publique good. / By Hardick Warren, a well-wisher to the most secret occult arts and learning. London : Printed [by] J.M. for N. Brook, 1651.</strong>
 <br /><br />
-This is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member and later Inner Temple Treasurer, William Petyt. When he died in 1707, he left his books and tracts to Middle Temple and his manuscripts to Inner Temple with £150 to buy a place to preserve the collection, which resulted in the Library being enlarged to accommodate the bequest.
+This is the only known work by hermetic philosopher Hardick Warren. The seventeenth century is known for an interest in the occult, and this particular work attempts to rationalise natural magic, making it compatible with Warren’s own Christian beliefs and distancing it from subjects of dark magic, such as necromancy and consorting with spirits. This item is not unusual at all in our collections, our biggest benefactor Robert Ashley, like many of his contemporaries, also had a taste for books on similar subjects. This work was donated to the Inn in 1698, by Middle Temple member, and later Inner Temple Treasurer, William Petyt. When Petyt died in 1707, he left his books and tracts to Middle Temple and his manuscripts to Inner Temple with £150 to buy a place to preserve the collection, which resulted in the Library being enlarged to accommodate the bequest.
 
 <param ve-image 
        label="Detail from Magick & astrology vindicated from those false aspersions and calumnies, 1651""
@@ -108,7 +108,7 @@ This is a comparative study of the history plays by Shakespeare and their source
 ## 1693-1694 No. 110 16 November 1694 receipt book
 and, <strong>The new natura brevium of the most reverend judge Mr Anthony Fitz-herbert. Corrected and revised by the author. : With a perfect table of the most materiall things contained therein, composed by William Rastall. Whereunto is added the authorities in law; and some other cases and notes collected by the translator out of the year-books and abridgements; never before printed therewith. Newly translated into English. London : Printed for W. Lee, M. Walbanck, D. Pakeman, and G. Bedell, M.DC.LII.</strong>
  <br /><br />
-Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and payment for acquisitions like furniture and books. The receipt book on display from 1693 shows us a list of books the Library acquired during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
+Spanning several centuries, the receipt books cover the expenditure of the Inn, making note of things like employees’ wages, bills for coal and feasts, and payment for acquisitions like furniture and books. This receipt book from 1693 shows us a list of books the Library purchased during this period. Whilst donations from generous members of the Inn formed much of the foundation of the Library, these receipt books tell us that Keepers of the Library were intent on shaping the collections and were keen to select core legal texts for its readership.
  <br /><br />
 One such acquisition is <strong>The new natura brevium of the most reverend judge, Mr. Anthony Fitz-herbert</strong>. This treatise on the laws of England, initially printed in 1534, includes commentary on the practical application of writs in use at that time and was even allowed to be cited in court, right up until the eighteenth century. The copy on display is from a later edition. There have been many subsequent editions of this seminal text, including two that can be found on the open shelves at Bay 39 and 42. This text can be seen listed in the receipt book next to the red arrow.
 
@@ -123,7 +123,7 @@ One such acquisition is <strong>The new natura brevium of the most reverend judg
 ## Angliæ notitia
 or, <strong><em>The present state of England. The first part. Together with divers reflections upon the antient state thereof. By Edward Chamberlayne L.L.D.R.S.S. London : In the Savoy, printed by T.N. for J. Martin, printer to the Royal Society, and are to be sold at the sign of the Bell in S. Pauls Church-Yard, 1679. </em></strong>
 <br /><br />
-An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, L'Estat Nouveau de la France.
+An important historical document, Angliæ notitia is Edward Chamberlayne’s best known work and as the title suggests a guide to the political and social state of England. This was first published in 1669, inspired by a similar work published in 1661, _L'Estat Nouveau de la France_.
 <br /><br />
 This book contains one of the earliest inscriptions (1693) claiming ownership by Middle Temple Library.
 
@@ -174,7 +174,7 @@ In 1857, it was finally decided that a new building was required to encompass al
 The final site was ultimately decided with the purchase of new land, known as Essex Wharf and premises (approximately where the Queen Elizabeth building stands today).
 
 <param ve-image 
-       label="Library Committee minutes discussing plans for the new Library’s location, 14 April 1857 (MT/9/LCM/1)"
+       label="Library Committee minutes discussing plans for the new Library’s location, 14 April 1857"
        url="https://github.com/user-attachments/assets/c56ec118-28cc-420a-b768-7f5ec4d1a636">
 
 ## The Gothic Library
@@ -238,7 +238,7 @@ In 1928, the Library decided to upgrade its heating. A quote from Benham and Son
 ## Lighting
 Lighting would always been an issue. Back when the Library was in Parliament Chamber, lit by oil lamps. There was a petition for lunch in hall outside of term time, and added into the petition was also the request of opening the Library during the evening and lighting it. 
 <br /><br />
-The Victorian library was a big space, so lighting here was again a concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
+The Victorian library was a large space, so lighting here was again a concern. The Library originally installed gas lighting, with many people at this time still preferring natural lighting and candles. Middle Temple was late to adopt electric lighting, and it wasn’t until 1894 the first electric light was installed in the Library by Strode & Co. A letter dated 1899 shows evidence of an inspection taking place where it seems that all light fixtures and fuses were in ‘good order’ apart from in the smoking room which required a fix. 
 <br /><br />
 In 1971 too the Library updated its lighting, this time in the modern building. This lighting included a combination of tungsten-halogen, mercury discharge and fluorescent lighting.
 
@@ -263,7 +263,7 @@ In 1971 too the Library updated its lighting, this time in the modern building. 
        url="https://github.com/user-attachments/assets/a2e7c5b0-cb68-4c59-aee1-af3c810dc44b">
 
 ## Drainage
-A report written in 1900 identifies ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposes that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
+A report written in 1900 identified ‘partly choked’ drains and bad joints in the drainage system, which resulted in smoke travelling under the floors of the Library. Addressing these faults, the report proposed that stainless lead foil pipes be carried to the top of the building for ventilation. The pipes were to be coated in cement and laid in concrete. This work would cost an estimated £400.
 
 <param ve-image 
        label="Report, 1900"
@@ -278,7 +278,7 @@ A report written in 1900 identifies ‘partly choked’ drains and bad joints in
        url="https://github.com/user-attachments/assets/84ae637d-4792-4af1-8b48-2444725fae8b">
 
 ## Wartime and the Library
-The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. This letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
+The Library suffered immense damage during the Second World War. The area was bombed a number of times, with the Library sustaining some damage early on in the war. A letter from the Librarian to a Miss Woodward of Pump Court details the destruction of the Library during the war and the subsequent removal of 55,000 volumes of books to Bletchley after the initial damage.
 <br /><br />
 In 1941 a bomb fell that caused the Library roof to cave in and rendered the building no longer safe to use. During this time, Middle Templars were invited to make use of Lincoln’s Inn Library which managed to stay safe during the Blitz.
 <br /><br />
