@@ -379,7 +379,7 @@ Middle Temple Library has been said to house the largest US law collection outsi
 <br /><br />
 From there the collection grew from strength to strength, lending weight to the idea of Middle Temple as the American Inn, with both its historical connections and a formidable collection of US law reports. In 2005, Amicus and Amnesty International donated materials that form the Capital Punishment Collection. 
 <br /><br />
-The American floor was later converted to provide rooms for education and training purposes, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses some international materials and our EU collection which originated in 1972, as the UK entered the Common Market in 1973. The collection provides EU legislation and case law, along with materials for all 27 member states.
+The American floor was later converted to provide rooms for education and training, opened by US Ambassador Louis Susman in 2011. It was renamed to the Rutledge Suite after Edward Rutledge, one of the 5 Middle Templars who signed the Declaration of Independance in 1776. The Rutledge Suite now also houses some international materials and our EU collection which originated in 1972, as the UK entered the Common Market in 1973. The collection provides EU legislation and case law, along with materials for all 27 member states.
 <br /><br />
 Later this year you can discover more about the Inn's American connection in the next exhibition being curated by the Middle Temple Archive and Library. 
 
@@ -405,7 +405,7 @@ Later this year you can discover more about the Inn's American connection in the
 
 ## The Library catalogue
 
-The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including the manuscript below. IN 1655 Henry Moodyman was paid £25 to compile a catalogue. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
+The first Library catalogue was produced by William Cox, executor of Ashley’s will and the first Library Keeper, which noted down all the volumes in the collection. Though, sadly, it no longer survives, several catalogues have been produced since, in various forms, including the manuscript below. In 1655, one Henry Moodyman was paid £25 to compile a catalogue. This original catalogue no longer exists, but a multi-volume one compiled in 1683-4 by two unnamed booksellers still resides in the Archive. 
 <br /><br />
 The first printed catalogue appeared in 1700, produced by Sir Bartholomew Shower, who was Treasurer of the Inn at the time. This was succeeded by a 1734 catalogue which was more helpfully arranged by author and title. In the nineteenth and twentieth centuries, catalogues were published in 1845, 1880 and 1914, with supplements issued up to 1925. A card catalogue was introduced and updated until the late 20th century, when a computer catalogue took its place. Now the Library has an [online catalogue](https://www.middletemplelibrary.org.uk/client/en_GB/default) which is accessible for all to consult. 
 <br /><br />
@@ -453,7 +453,7 @@ The Library has come a long way since the Ashley bequest of 6,000 books. By the 
 Though the Library's primary focus today is on legal materials, thanks to the more wide-ranging legal education between the 17th and 19th centuries, we also have some works on geography, topography, philosophy, theology and literature. It was with the establishment of the Council of Legal Education in 1852 and the introduction of compulsory examinations for the Bar in 1872 that shifted the focus of collection development towards primarily legal works. 
 <br /><br />
 The way those works have been consulted through time have also changed and continue to change. Up until the late twentieth century legal research was still reliant on printed law reports, textbooks and journals. Although computers are common-place when it comes to legal research today, it was not until 1989 that a computer was introduced into the library, providing access to a library catalogue /database. In 2000, a full network of computers providing fuller access to legal databases and a more sophisticated library catalogue was installed. A new version of the online catalogue was introduced in 2014. E-books on iPads were integrated into the collection in the same year. The latest development is the integration of AI enhanced searching, which Middle Temple Library provides through resources like Lexis Protégé. <br /><br />
-Hopefully the Library will continue to evolve in response to the needs of its members as it has done so since Robert Ashley's wish for a Library that would be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>.
+Hopefully the Library will continue to evolve in response to the needs of its members as it has done so since Robert Ashley's wish for a Library that could be used by any student <strong>“whether of our owne or of any forraigne nation”</strong>.
 
 
 <param ve-image 
