@@ -158,15 +158,7 @@ In 1824 a new purpose-built Library was gratefully constructed by architect Henr
 <param ve-iframe
        label="Picturesque views, with an historical account of the Inns of court, in London and Westminster, 1800, accessed from Archive.org"
        src="https://ia802908.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2.zip&file=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_jp2/bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800_0132.jp2&id=bim_eighteenth-century_picturesque-views-with-_ireland-samuel_1800&scale=15.5&rotate=0">
-
-<param ve-image 
-       label="New Parliament Chamber Library Plan A"
-       url="https://github.com/user-attachments/assets/d76f1626-3f86-4d55-86cb-b42270bc0aaa">
-
-<param ve-image 
-       label="New Parliament Chamber Library Plan B"
-       url="https://github.com/user-attachments/assets/d80dddf3-a969-4772-95ac-5baaf91db08a">
-       
+      
 
 ## Library Committee minutes discussing plans for the new Library’s location, 14 April 1857
 In 1857, it was finally decided that a new building was required to encompass all the Library’s collections. A number of possible locations were deliberated. These Library Committee minutes show how unpopular the plan to build a new library on the fountain court site was. We can see that it provoked such a stir as to inspire a petition against it, signed by the Inn’s barrister members.
